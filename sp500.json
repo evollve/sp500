@@ -1,503 +1,503 @@
-{"#":1,"Company":"Microsoft Corp","Symbol":"MSFT","Portfolio%":"7.14%","Price":403.48,"Chg":-11.44,"% Chg":"(-2.76%)"}
-{"#":2,"Company":"Apple Inc.","Symbol":"AAPL","Portfolio%":"6.08%","Price":169.87,"Chg":-5.23,"% Chg":"(-2.99%)"}
-{"#":3,"Company":"Nvidia Corp","Symbol":"NVDA","Portfolio%":"4.70%","Price":856.3,"Chg":3.93,"% Chg":"(0.46%)"}
-{"#":4,"Company":"Amazon.com Inc","Symbol":"AMZN","Portfolio%":"3.75%","Price":173.91,"Chg":-3.68,"% Chg":"(-2.07%)"}
-{"#":5,"Company":"Meta Platforms, Inc. Class A","Symbol":"META","Portfolio%":"2.58%","Price":490.76,"Chg":-7.43,"% Chg":"(-1.49%)"}
-{"#":6,"Company":"Alphabet Inc. Class A","Symbol":"GOOGL","Portfolio%":"1.88%","Price":132.58,"Chg":-0.77,"% Chg":"(-0.58%)"}
-{"#":7,"Company":"Berkshire Hathaway Class B","Symbol":"BRK.B","Portfolio%":"1.71%","Price":400.55,"Chg":-2.84,"% Chg":"(-0.70%)"}
-{"#":8,"Company":"Alphabet Inc. Class C","Symbol":"GOOG","Portfolio%":"1.59%","Price":133.66,"Chg":-0.54,"% Chg":"(-0.41%)"}
-{"#":9,"Company":"Eli Lilly & Co.","Symbol":"LLY","Portfolio%":"1.44%","Price":779.83,"Chg":-12.45,"% Chg":"(-1.57%)"}
-{"#":10,"Company":"Broadcom Inc.","Symbol":"AVGO","Portfolio%":"1.42%","Price":1354.5,"Chg":-47.77,"% Chg":"(-3.41%)"}
-{"#":11,"Company":"Tesla, Inc.","Symbol":"TSLA","Portfolio%":"1.30%","Price":181.07,"Chg":-7.07,"% Chg":"(-3.76%)"}
-{"#":12,"Company":"Jpmorgan Chase & Co.","Symbol":"JPM","Portfolio%":"1.24%","Price":188.62,"Chg":1.94,"% Chg":"(1.04%)"}
-{"#":13,"Company":"Unitedhealth Group Incorporated","Symbol":"UNH","Portfolio%":"1.05%","Price":472.64,"Chg":-9.24,"% Chg":"(-1.92%)"}
-{"#":14,"Company":"Visa Inc.","Symbol":"V","Portfolio%":"1.04%","Price":278.19,"Chg":-2.34,"% Chg":"(-0.84%)"}
-{"#":15,"Company":"Exxon Mobil Corporation","Symbol":"XOM","Portfolio%":"0.98%","Price":105.72,"Chg":1.36,"% Chg":"(1.30%)"}
-{"#":16,"Company":"Mastercard Incorporated","Symbol":"MA","Portfolio%":"0.91%","Price":466.06,"Chg":-2.44,"% Chg":"(-0.52%)"}
-{"#":17,"Company":"Johnson & Johnson","Symbol":"JNJ","Portfolio%":"0.90%","Price":158.98,"Chg":-0.87,"% Chg":"(-0.54%)"}
-{"#":18,"Company":"Home Depot, Inc.","Symbol":"HD","Portfolio%":"0.89%","Price":378.37,"Chg":-2.0,"% Chg":"(-0.53%)"}
-{"#":19,"Company":"Procter & Gamble Company","Symbol":"PG","Portfolio%":"0.87%","Price":159.24,"Chg":-0.32,"% Chg":"(-0.20%)"}
-{"#":20,"Company":"Costco Wholesale Corp","Symbol":"COST","Portfolio%":"0.77%","Price":762.21,"Chg":3.03,"% Chg":"(0.40%)"}
-{"#":21,"Company":"Advanced Micro Devices","Symbol":"AMD","Portfolio%":"0.76%","Price":206.08,"Chg":0.72,"% Chg":"(0.35%)"}
-{"#":22,"Company":"Merck & Co., Inc.","Symbol":"MRK","Portfolio%":"0.74%","Price":122.56,"Chg":-1.49,"% Chg":"(-1.21%)"}
-{"#":23,"Company":"Abbvie Inc.","Symbol":"ABBV","Portfolio%":"0.73%","Price":178.85,"Chg":1.8,"% Chg":"(1.02%)"}
-{"#":24,"Company":"Salesforce, Inc.","Symbol":"CRM","Portfolio%":"0.71%","Price":301.28,"Chg":-13.36,"% Chg":"(-4.25%)"}
-{"#":25,"Company":"Netflix Inc","Symbol":"NFLX","Portfolio%":"0.63%","Price":597.72,"Chg":-18.11,"% Chg":"(-2.94%)"}
-{"#":26,"Company":"Chevron Corporation","Symbol":"CVX","Portfolio%":"0.62%","Price":149.53,"Chg":0.65,"% Chg":"(0.44%)"}
-{"#":27,"Company":"Adobe Inc.","Symbol":"ADBE","Portfolio%":"0.60%","Price":543.75,"Chg":-24.19,"% Chg":"(-4.26%)"}
-{"#":28,"Company":"Walmart Inc.","Symbol":"WMT","Portfolio%":"0.58%","Price":60.06,"Chg":0.76,"% Chg":"(1.27%)"}
-{"#":29,"Company":"Accenture Plc","Symbol":"ACN","Portfolio%":"0.55%","Price":377.01,"Chg":-6.7,"% Chg":"(-1.75%)"}
-{"#":30,"Company":"Bank of America Corporation","Symbol":"BAC","Portfolio%":"0.55%","Price":35.4,"Chg":0.25,"% Chg":"(0.71%)"}
-{"#":31,"Company":"Coca-Cola Company","Symbol":"KO","Portfolio%":"0.54%","Price":59.55,"Chg":-0.27,"% Chg":"(-0.44%)"}
-{"#":32,"Company":"Pepsico, Inc.","Symbol":"PEP","Portfolio%":"0.52%","Price":161.9,"Chg":-3.47,"% Chg":"(-2.10%)"}
-{"#":33,"Company":"Thermo Fisher Scientific, Inc.","Symbol":"TMO","Portfolio%":"0.52%","Price":584.96,"Chg":3.32,"% Chg":"(0.57%)"}
-{"#":34,"Company":"Linde Plc","Symbol":"LIN","Portfolio%":"0.50%","Price":468.5,"Chg":12.9,"% Chg":"(2.83%)"}
-{"#":35,"Company":"Mcdonald's Corporation","Symbol":"MCD","Portfolio%":"0.49%","Price":292.36,"Chg":1.42,"% Chg":"(0.49%)"}
-{"#":36,"Company":"Abbott Laboratories","Symbol":"ABT","Portfolio%":"0.48%","Price":118.18,"Chg":-1.86,"% Chg":"(-1.55%)"}
-{"#":37,"Company":"The Walt Disney Company","Symbol":"DIS","Portfolio%":"0.47%","Price":112.73,"Chg":-0.97,"% Chg":"(-0.85%)"}
-{"#":38,"Company":"Wells Fargo & Co.","Symbol":"WFC","Portfolio%":"0.46%","Price":56.65,"Chg":0.84,"% Chg":"(1.50%)"}
-{"#":39,"Company":"Cisco Systems, Inc.","Symbol":"CSCO","Portfolio%":"0.45%","Price":48.85,"Chg":-0.28,"% Chg":"(-0.56%)"}
-{"#":40,"Company":"Intuit Inc","Symbol":"INTU","Portfolio%":"0.43%","Price":635.73,"Chg":-32.68,"% Chg":"(-4.89%)"}
-{"#":41,"Company":"Intel Corp","Symbol":"INTC","Portfolio%":"0.43%","Price":43.3,"Chg":-2.31,"% Chg":"(-5.06%)"}
-{"#":42,"Company":"Qualcomm Inc","Symbol":"QCOM","Portfolio%":"0.42%","Price":161.71,"Chg":-4.85,"% Chg":"(-2.91%)"}
-{"#":43,"Company":"Oracle Corp","Symbol":"ORCL","Portfolio%":"0.42%","Price":111.04,"Chg":-3.03,"% Chg":"(-2.65%)"}
-{"#":44,"Company":"Applied Materials Inc","Symbol":"AMAT","Portfolio%":"0.41%","Price":207.92,"Chg":-1.57,"% Chg":"(-0.75%)"}
-{"#":45,"Company":"General Electric Company","Symbol":"GE","Portfolio%":"0.40%","Price":157.76,"Chg":-3.25,"% Chg":"(-2.02%)"}
-{"#":46,"Company":"Comcast Corp","Symbol":"CMCSA","Portfolio%":"0.40%","Price":42.08,"Chg":0.23,"% Chg":"(0.55%)"}
-{"#":47,"Company":"Caterpillar Inc.","Symbol":"CAT","Portfolio%":"0.40%","Price":332.39,"Chg":-6.26,"% Chg":"(-1.85%)"}
-{"#":48,"Company":"International Business Machines Corporation","Symbol":"IBM","Portfolio%":"0.40%","Price":192.07,"Chg":-1.0,"% Chg":"(-0.52%)"}
-{"#":49,"Company":"Verizon Communications","Symbol":"VZ","Portfolio%":"0.39%","Price":40.41,"Chg":0.1,"% Chg":"(0.25%)"}
-{"#":50,"Company":"Danaher Corporation","Symbol":"DHR","Portfolio%":"0.39%","Price":252.87,"Chg":-3.32,"% Chg":"(-1.30%)"}
-{"#":51,"Company":"Uber Technologies, Inc.","Symbol":"UBER","Portfolio%":"0.39%","Price":79.23,"Chg":-2.07,"% Chg":"(-2.55%)"}
-{"#":52,"Company":"Servicenow, Inc.","Symbol":"NOW","Portfolio%":"0.37%","Price":746.6,"Chg":-29.49,"% Chg":"(-3.80%)"}
-{"#":53,"Company":"Texas Instruments Incorporated","Symbol":"TXN","Portfolio%":"0.36%","Price":169.08,"Chg":-3.37,"% Chg":"(-1.95%)"}
-{"#":54,"Company":"Union Pacific Corp.","Symbol":"UNP","Portfolio%":"0.36%","Price":253.75,"Chg":0.28,"% Chg":"(0.11%)"}
-{"#":55,"Company":"Pfizer Inc.","Symbol":"PFE","Portfolio%":"0.35%","Price":26.13,"Chg":0.24,"% Chg":"(0.94%)"}
-{"#":56,"Company":"Amgen Inc","Symbol":"AMGN","Portfolio%":"0.35%","Price":275.81,"Chg":-3.58,"% Chg":"(-1.28%)"}
-{"#":57,"Company":"Lowe's Companies Inc.","Symbol":"LOW","Portfolio%":"0.33%","Price":240.12,"Chg":-1.98,"% Chg":"(-0.82%)"}
-{"#":58,"Company":"Intuitive Surgical Inc.","Symbol":"ISRG","Portfolio%":"0.32%","Price":386.65,"Chg":-13.94,"% Chg":"(-3.48%)"}
-{"#":59,"Company":"Philip Morris International Inc.","Symbol":"PM","Portfolio%":"0.32%","Price":90.51,"Chg":0.19,"% Chg":"(0.22%)"}
-{"#":60,"Company":"S&p Global Inc.","Symbol":"SPGI","Portfolio%":"0.32%","Price":427.3,"Chg":1.86,"% Chg":"(0.44%)"}
-{"#":61,"Company":"Conocophillips","Symbol":"COP","Portfolio%":"0.31%","Price":111.88,"Chg":0.23,"% Chg":"(0.21%)"}
-{"#":62,"Company":"Honeywell International, Inc.","Symbol":"HON","Portfolio%":"0.30%","Price":196.98,"Chg":-2.26,"% Chg":"(-1.13%)"}
-{"#":63,"Company":"Lam Research Corp","Symbol":"LRCX","Portfolio%":"0.30%","Price":969.98,"Chg":-7.54,"% Chg":"(-0.77%)"}
-{"#":64,"Company":"Rtx Corporation","Symbol":"RTX","Portfolio%":"0.30%","Price":90.12,"Chg":0.2,"% Chg":"(0.23%)"}
-{"#":65,"Company":"Goldman Sachs Group Inc.","Symbol":"GS","Portfolio%":"0.29%","Price":389.38,"Chg":-2.87,"% Chg":"(-0.73%)"}
-{"#":66,"Company":"American Express Company","Symbol":"AXP","Portfolio%":"0.29%","Price":216.15,"Chg":-2.76,"% Chg":"(-1.26%)"}
-{"#":67,"Company":"Nike, Inc.","Symbol":"NKE","Portfolio%":"0.29%","Price":98.37,"Chg":-1.18,"% Chg":"(-1.18%)"}
-{"#":68,"Company":"Prologis, Inc.","Symbol":"PLD","Portfolio%":"0.29%","Price":133.1,"Chg":-0.51,"% Chg":"(-0.38%)"}
-{"#":69,"Company":"Booking Holdings Inc.","Symbol":"BKNG","Portfolio%":"0.28%","Price":3418.03,"Chg":-43.37,"% Chg":"(-1.25%)"}
-{"#":70,"Company":"At&t Inc.","Symbol":"T","Portfolio%":"0.28%","Price":17.24,"Chg":0.43,"% Chg":"(2.59%)"}
-{"#":71,"Company":"Stryker Corporation","Symbol":"SYK","Portfolio%":"0.28%","Price":351.24,"Chg":-4.61,"% Chg":"(-1.30%)"}
-{"#":72,"Company":"Eaton Corporation, Plcs","Symbol":"ETN","Portfolio%":"0.27%","Price":292.06,"Chg":-4.52,"% Chg":"(-1.52%)"}
-{"#":73,"Company":"Elevance Health, Inc.","Symbol":"ELV","Portfolio%":"0.27%","Price":492.65,"Chg":-11.71,"% Chg":"(-2.32%)"}
-{"#":74,"Company":"Blackrock, Inc.","Symbol":"BLK","Portfolio%":"0.26%","Price":827.35,"Chg":-7.12,"% Chg":"(-0.85%)"}
-{"#":75,"Company":"Boeing Company","Symbol":"BA","Portfolio%":"0.26%","Price":200.75,"Chg":0.21,"% Chg":"(0.10%)"}
-{"#":76,"Company":"Nextra Energy, Inc.","Symbol":"NEE","Portfolio%":"0.26%","Price":55.2,"Chg":0.23,"% Chg":"(0.42%)"}
-{"#":77,"Company":"Tjx Companies, Inc.","Symbol":"TJX","Portfolio%":"0.26%","Price":97.19,"Chg":-0.75,"% Chg":"(-0.77%)"}
-{"#":78,"Company":"Vertex Pharmaceuticals Inc","Symbol":"VRTX","Portfolio%":"0.26%","Price":417.0,"Chg":-7.03,"% Chg":"(-1.66%)"}
-{"#":79,"Company":"Medtronic Plc","Symbol":"MDT","Portfolio%":"0.26%","Price":85.18,"Chg":0.12,"% Chg":"(0.14%)"}
-{"#":80,"Company":"Progressive Corporation","Symbol":"PGR","Portfolio%":"0.25%","Price":190.43,"Chg":1.19,"% Chg":"(0.63%)"}
-{"#":81,"Company":"Morgan Stanley","Symbol":"MS","Portfolio%":"0.25%","Price":88.91,"Chg":-1.13,"% Chg":"(-1.25%)"}
-{"#":82,"Company":"United Parcel Service, Inc. Class B","Symbol":"UPS","Portfolio%":"0.25%","Price":149.62,"Chg":-0.99,"% Chg":"(-0.66%)"}
-{"#":83,"Company":"Starbucks Corp","Symbol":"SBUX","Portfolio%":"0.25%","Price":91.33,"Chg":-1.13,"% Chg":"(-1.23%)"}
-{"#":84,"Company":"Citigroup Inc.","Symbol":"C","Portfolio%":"0.25%","Price":56.34,"Chg":0.2,"% Chg":"(0.36%)"}
-{"#":85,"Company":"Regeneron Pharmaceuticals Inc","Symbol":"REGN","Portfolio%":"0.24%","Price":943.23,"Chg":-27.96,"% Chg":"(-2.88%)"}
-{"#":86,"Company":"Micron Technology, Inc.","Symbol":"MU","Portfolio%":"0.24%","Price":94.73,"Chg":-1.05,"% Chg":"(-1.09%)"}
-{"#":87,"Company":"Bristol-Myers Squibb Co.","Symbol":"BMY","Portfolio%":"0.24%","Price":52.04,"Chg":1.11,"% Chg":"(2.19%)"}
-{"#":88,"Company":"Automatic Data Processing","Symbol":"ADP","Portfolio%":"0.24%","Price":240.43,"Chg":-5.77,"% Chg":"(-2.35%)"}
-{"#":89,"Company":"Chubb Limited","Symbol":"CB","Portfolio%":"0.24%","Price":249.28,"Chg":1.02,"% Chg":"(0.41%)"}
-{"#":90,"Company":"Marsh & Mclennan Companies, Inc.","Symbol":"MMC","Portfolio%":"0.23%","Price":199.25,"Chg":-2.63,"% Chg":"(-1.30%)"}
-{"#":91,"Company":"The Charles Schwab Corporation","Symbol":"SCHW","Portfolio%":"0.23%","Price":68.5,"Chg":0.86,"% Chg":"(1.26%)"}
-{"#":92,"Company":"Deere & Company","Symbol":"DE","Portfolio%":"0.23%","Price":366.78,"Chg":2.36,"% Chg":"(0.65%)"}
-{"#":93,"Company":"Mondelez International, Inc. Class A","Symbol":"MDLZ","Portfolio%":"0.23%","Price":70.4,"Chg":-1.11,"% Chg":"(-1.55%)"}
-{"#":94,"Company":"Boston Scientific Corp.","Symbol":"BSX","Portfolio%":"0.23%","Price":66.96,"Chg":-0.48,"% Chg":"(-0.70%)"}
-{"#":95,"Company":"Kla Corporation","Symbol":"KLAC","Portfolio%":"0.23%","Price":714.37,"Chg":-3.44,"% Chg":"(-0.48%)"}
-{"#":96,"Company":"The Cigna Group","Symbol":"CI","Portfolio%":"0.23%","Price":329.95,"Chg":-6.85,"% Chg":"(-2.03%)"}
-{"#":97,"Company":"Analog Devices, Inc.","Symbol":"ADI","Portfolio%":"0.23%","Price":189.34,"Chg":-5.32,"% Chg":"(-2.73%)"}
-{"#":98,"Company":"Cvs Health Corporation","Symbol":"CVS","Portfolio%":"0.22%","Price":73.72,"Chg":-0.17,"% Chg":"(-0.22%)"}
-{"#":99,"Company":"Lockheed Martin Corp.","Symbol":"LMT","Portfolio%":"0.22%","Price":430.24,"Chg":-1.7,"% Chg":"(-0.39%)"}
-{"#":100,"Company":"American Tower Corporation","Symbol":"AMT","Portfolio%":"0.22%","Price":205.25,"Chg":-0.9,"% Chg":"(-0.44%)"}
-{"#":101,"Company":"Palo Alto Networks, Inc.","Symbol":"PANW","Portfolio%":"0.22%","Price":300.85,"Chg":1.41,"% Chg":"(0.47%)"}
-{"#":102,"Company":"Blackstone Inc.","Symbol":"BX","Portfolio%":"0.21%","Price":125.51,"Chg":-1.09,"% Chg":"(-0.86%)"}
-{"#":103,"Company":"Fiserv, Inc.","Symbol":"FI","Portfolio%":"0.21%","Price":150.08,"Chg":0.09,"% Chg":"(0.06%)"}
-{"#":104,"Company":"Gilead Sciences Inc","Symbol":"GILD","Portfolio%":"0.21%","Price":72.95,"Chg":0.7,"% Chg":"(0.97%)"}
-{"#":105,"Company":"Synopsys Inc","Symbol":"SNPS","Portfolio%":"0.21%","Price":565.05,"Chg":-29.27,"% Chg":"(-4.92%)"}
-{"#":106,"Company":"Zoetis Inc.","Symbol":"ZTS","Portfolio%":"0.20%","Price":186.63,"Chg":-1.24,"% Chg":"(-0.66%)"}
-{"#":107,"Company":"Cadence Design Systems","Symbol":"CDNS","Portfolio%":"0.20%","Price":306.49,"Chg":-10.82,"% Chg":"(-3.41%)"}
-{"#":108,"Company":"Equinix, Inc. Reit","Symbol":"EQIX","Portfolio%":"0.20%","Price":895.53,"Chg":-18.13,"% Chg":"(-1.98%)"}
-{"#":109,"Company":"T-Mobile Us, Inc.","Symbol":"TMUS","Portfolio%":"0.19%","Price":165.53,"Chg":2.19,"% Chg":"(1.34%)"}
-{"#":110,"Company":"Intercontinental Exchange Inc.","Symbol":"ICE","Portfolio%":"0.18%","Price":133.7,"Chg":-4.37,"% Chg":"(-3.16%)"}
-{"#":111,"Company":"The Sherwin-Williams Company","Symbol":"SHW","Portfolio%":"0.18%","Price":330.15,"Chg":-6.95,"% Chg":"(-2.06%)"}
-{"#":112,"Company":"Cme Group Inc.","Symbol":"CME","Portfolio%":"0.18%","Price":219.93,"Chg":-1.42,"% Chg":"(-0.64%)"}
-{"#":113,"Company":"Csx Corporation","Symbol":"CSX","Portfolio%":"0.17%","Price":38.16,"Chg":-0.23,"% Chg":"(-0.59%)"}
-{"#":114,"Company":"Waste Management, Inc.","Symbol":"WM","Portfolio%":"0.17%","Price":205.93,"Chg":-0.88,"% Chg":"(-0.42%)"}
-{"#":115,"Company":"Chipotle Mexican Grill, Inc.","Symbol":"CMG","Portfolio%":"0.17%","Price":2711.5,"Chg":-8.8,"% Chg":"(-0.32%)"}
-{"#":116,"Company":"The Southern Company","Symbol":"SO","Portfolio%":"0.17%","Price":67.41,"Chg":-0.79,"% Chg":"(-1.16%)"}
-{"#":117,"Company":"Arista Networks","Symbol":"ANET","Portfolio%":"0.17%","Price":282.44,"Chg":-5.5,"% Chg":"(-1.91%)"}
-{"#":118,"Company":"Altria Group, Inc.","Symbol":"MO","Portfolio%":"0.17%","Price":40.0,"Chg":0.27,"% Chg":"(0.68%)"}
-{"#":119,"Company":"Target Corporation","Symbol":"TGT","Portfolio%":"0.17%","Price":168.05,"Chg":17.56,"% Chg":"(11.67%)"}
-{"#":120,"Company":"Illinois Tool Works Inc.","Symbol":"ITW","Portfolio%":"0.16%","Price":257.92,"Chg":-1.15,"% Chg":"(-0.44%)"}
-{"#":121,"Company":"Colgate-Palmolive Company","Symbol":"CL","Portfolio%":"0.16%","Price":86.75,"Chg":-0.08,"% Chg":"(-0.10%)"}
-{"#":122,"Company":"Schlumberger Limited","Symbol":"SLB","Portfolio%":"0.16%","Price":49.65,"Chg":0.23,"% Chg":"(0.47%)"}
-{"#":123,"Company":"Duke Energy Corporation","Symbol":"DUK","Portfolio%":"0.16%","Price":92.26,"Chg":-0.16,"% Chg":"(-0.17%)"}
-{"#":124,"Company":"Mckesson Corporation","Symbol":"MCK","Portfolio%":"0.16%","Price":520.61,"Chg":-13.57,"% Chg":"(-2.54%)"}
-{"#":125,"Company":"Airbnb, Inc. Class A","Symbol":"ABNB","Portfolio%":"0.16%","Price":158.67,"Chg":0.57,"% Chg":"(0.36%)"}
-{"#":126,"Company":"Parker-Hannifin Corporation","Symbol":"PH","Portfolio%":"0.16%","Price":535.03,"Chg":-0.48,"% Chg":"(-0.09%)"}
-{"#":127,"Company":"Becton, Dickinson and Co.","Symbol":"BDX","Portfolio%":"0.16%","Price":233.7,"Chg":-1.95,"% Chg":"(-0.83%)"}
-{"#":128,"Company":"Eog Resources, Inc.","Symbol":"EOG","Portfolio%":"0.16%","Price":116.81,"Chg":0.98,"% Chg":"(0.84%)"}
-{"#":129,"Company":"Nxp Semiconductors N.v.","Symbol":"NXPI","Portfolio%":"0.15%","Price":249.03,"Chg":-5.27,"% Chg":"(-2.07%)"}
-{"#":130,"Company":"Amphenol Corporation","Symbol":"APH","Portfolio%":"0.15%","Price":109.66,"Chg":-2.26,"% Chg":"(-2.02%)"}
-{"#":131,"Company":"Marathon Petroleum Corporation","Symbol":"MPC","Portfolio%":"0.15%","Price":176.17,"Chg":2.42,"% Chg":"(1.39%)"}
-{"#":132,"Company":"Transdigm Group Incorporated","Symbol":"TDG","Portfolio%":"0.15%","Price":1109.0,"Chg":-64.41,"% Chg":"(-5.49%)"}
-{"#":133,"Company":"Trane Technologies Plc","Symbol":"TT","Portfolio%":"0.15%","Price":282.93,"Chg":-5.2,"% Chg":"(-1.81%)"}
-{"#":134,"Company":"Paypal Holdings, Inc.","Symbol":"PYPL","Portfolio%":"0.15%","Price":58.22,"Chg":-1.76,"% Chg":"(-2.93%)"}
-{"#":135,"Company":"U.S. Bancorp","Symbol":"USB","Portfolio%":"0.15%","Price":42.99,"Chg":0.28,"% Chg":"(0.67%)"}
-{"#":136,"Company":"Northrop Grumman Corp.","Symbol":"NOC","Portfolio%":"0.15%","Price":455.21,"Chg":-4.87,"% Chg":"(-1.06%)"}
-{"#":137,"Company":"O'reilly Automotive, Inc.","Symbol":"ORLY","Portfolio%":"0.15%","Price":1073.23,"Chg":-4.76,"% Chg":"(-0.44%)"}
-{"#":138,"Company":"Phillips 66","Symbol":"PSX","Portfolio%":"0.15%","Price":146.58,"Chg":2.32,"% Chg":"(1.61%)"}
-{"#":139,"Company":"Aon Plc Class A","Symbol":"AON","Portfolio%":"0.15%","Price":313.57,"Chg":-2.44,"% Chg":"(-0.77%)"}
-{"#":140,"Company":"Hca Healthcare, Inc.","Symbol":"HCA","Portfolio%":"0.14%","Price":318.16,"Chg":4.08,"% Chg":"(1.30%)"}
-{"#":141,"Company":"Marriot International Class A","Symbol":"MAR","Portfolio%":"0.14%","Price":247.51,"Chg":0.09,"% Chg":"(0.04%)"}
-{"#":142,"Company":"Emerson Electric Co.","Symbol":"EMR","Portfolio%":"0.14%","Price":107.86,"Chg":-1.65,"% Chg":"(-1.51%)"}
-{"#":143,"Company":"General Dynamics Corporation","Symbol":"GD","Portfolio%":"0.14%","Price":272.42,"Chg":-2.29,"% Chg":"(-0.83%)"}
-{"#":144,"Company":"Moody's Corporation","Symbol":"MCO","Portfolio%":"0.14%","Price":379.97,"Chg":-2.53,"% Chg":"(-0.66%)"}
-{"#":145,"Company":"Paccar Inc","Symbol":"PCAR","Portfolio%":"0.14%","Price":113.78,"Chg":1.49,"% Chg":"(1.33%)"}
-{"#":146,"Company":"Pnc Financial Services Group","Symbol":"PNC","Portfolio%":"0.14%","Price":154.96,"Chg":1.22,"% Chg":"(0.79%)"}
-{"#":147,"Company":"Roper Technologies, Inc.","Symbol":"ROP","Portfolio%":"0.13%","Price":519.02,"Chg":-28.2,"% Chg":"(-5.15%)"}
-{"#":148,"Company":"Norfolk Southern Corp.","Symbol":"NSC","Portfolio%":"0.13%","Price":257.66,"Chg":-1.51,"% Chg":"(-0.58%)"}
-{"#":149,"Company":"Ecolab, Inc.","Symbol":"ECL","Portfolio%":"0.13%","Price":227.66,"Chg":1.76,"% Chg":"(0.78%)"}
-{"#":150,"Company":"Fedex Corporation","Symbol":"FDX","Portfolio%":"0.13%","Price":248.58,"Chg":1.81,"% Chg":"(0.73%)"}
-{"#":151,"Company":"Autodesk Inc","Symbol":"ADSK","Portfolio%":"0.13%","Price":249.8,"Chg":-10.9,"% Chg":"(-4.18%)"}
-{"#":152,"Company":"General Motors Company","Symbol":"GM","Portfolio%":"0.13%","Price":40.65,"Chg":-0.28,"% Chg":"(-0.68%)"}
-{"#":153,"Company":"Motorola Solutions, Inc.","Symbol":"MSI","Portfolio%":"0.13%","Price":333.85,"Chg":-1.92,"% Chg":"(-0.57%)"}
-{"#":154,"Company":"Pioneer Natural Resource Co.","Symbol":"PXD","Portfolio%":"0.13%","Price":236.1,"Chg":1.4,"% Chg":"(0.59%)"}
-{"#":155,"Company":"Freeport-Mcmoran Inc.","Symbol":"FCX","Portfolio%":"0.13%","Price":37.22,"Chg":-1.1,"% Chg":"(-2.88%)"}
-{"#":156,"Company":"Cintas Corp","Symbol":"CTAS","Portfolio%":"0.13%","Price":618.81,"Chg":-10.44,"% Chg":"(-1.66%)"}
-{"#":157,"Company":"Constellation Energy Corporation","Symbol":"CEG","Portfolio%":"0.13%","Price":175.19,"Chg":-0.81,"% Chg":"(-0.46%)"}
-{"#":158,"Company":"Autozone, Inc.","Symbol":"AZO","Portfolio%":"0.12%","Price":2891.56,"Chg":-188.38,"% Chg":"(-6.12%)"}
-{"#":159,"Company":"Lululemon Athletica Inc.","Symbol":"LULU","Portfolio%":"0.12%","Price":446.5,"Chg":-4.29,"% Chg":"(-0.95%)"}
-{"#":160,"Company":"Hilton Worldwide Holdings Inc.","Symbol":"HLT","Portfolio%":"0.12%","Price":214.31,"Chg":11.9,"% Chg":"(5.88%)"}
-{"#":161,"Company":"Air Products & Chemicals, Inc.","Symbol":"APD","Portfolio%":"0.12%","Price":237.57,"Chg":-0.84,"% Chg":"(-0.35%)"}
-{"#":162,"Company":"Arthur J. Gallagher & Co.","Symbol":"AJG","Portfolio%":"0.12%","Price":236.31,"Chg":-6.22,"% Chg":"(-2.56%)"}
-{"#":163,"Company":"Capital One Financial","Symbol":"COF","Portfolio%":"0.12%","Price":137.62,"Chg":1.63,"% Chg":"(1.20%)"}
-{"#":164,"Company":"Edwards Lifesciences Corp","Symbol":"EW","Portfolio%":"0.12%","Price":86.55,"Chg":-0.47,"% Chg":"(-0.55%)"}
-{"#":165,"Company":"Welltower Inc.","Symbol":"WELL","Portfolio%":"0.12%","Price":91.58,"Chg":-1.82,"% Chg":"(-1.95%)"}
-{"#":166,"Company":"American International Group, Inc.","Symbol":"AIG","Portfolio%":"0.12%","Price":73.98,"Chg":0.8,"% Chg":"(1.10%)"}
-{"#":167,"Company":"3m Company","Symbol":"MMM","Portfolio%":"0.12%","Price":92.87,"Chg":1.43,"% Chg":"(1.56%)"}
-{"#":168,"Company":"Ross Stores Inc","Symbol":"ROST","Portfolio%":"0.12%","Price":146.54,"Chg":-3.43,"% Chg":"(-2.28%)"}
-{"#":169,"Company":"The Travelers Companies, Inc.","Symbol":"TRV","Portfolio%":"0.12%","Price":218.5,"Chg":-0.57,"% Chg":"(-0.26%)"}
-{"#":170,"Company":"Simon Property Group, Inc.","Symbol":"SPG","Portfolio%":"0.11%","Price":150.07,"Chg":-2.34,"% Chg":"(-1.54%)"}
-{"#":171,"Company":"Ford Motor Company","Symbol":"F","Portfolio%":"0.11%","Price":12.6,"Chg":-0.14,"% Chg":"(-1.14%)"}
-{"#":172,"Company":"Valero Energy Corporation","Symbol":"VLO","Portfolio%":"0.11%","Price":145.58,"Chg":0.88,"% Chg":"(0.61%)"}
-{"#":173,"Company":"Crown Castle Inc.","Symbol":"CCI","Portfolio%":"0.11%","Price":112.17,"Chg":-0.63,"% Chg":"(-0.56%)"}
-{"#":174,"Company":"Idexx Laboratories Inc","Symbol":"IDXX","Portfolio%":"0.11%","Price":548.09,"Chg":-23.19,"% Chg":"(-4.06%)"}
-{"#":175,"Company":"United Rentals, Inc.","Symbol":"URI","Portfolio%":"0.11%","Price":686.47,"Chg":-25.84,"% Chg":"(-3.63%)"}
-{"#":176,"Company":"Carrier Global Corporation","Symbol":"CARR","Portfolio%":"0.11%","Price":56.74,"Chg":-0.41,"% Chg":"(-0.72%)"}
-{"#":177,"Company":"Microchip Technology Inc","Symbol":"MCHP","Portfolio%":"0.11%","Price":86.36,"Chg":-0.56,"% Chg":"(-0.64%)"}
-{"#":178,"Company":"Dexcom, Inc.","Symbol":"DXCM","Portfolio%":"0.11%","Price":124.45,"Chg":2.15,"% Chg":"(1.76%)"}
-{"#":179,"Company":"Truist Financial Corporation","Symbol":"TFC","Portfolio%":"0.11%","Price":37.03,"Chg":0.86,"% Chg":"(2.39%)"}
-{"#":180,"Company":"Nucor Corporation","Symbol":"NUE","Portfolio%":"0.11%","Price":185.38,"Chg":-1.78,"% Chg":"(-0.95%)"}
-{"#":181,"Company":"Copart Inc","Symbol":"CPRT","Portfolio%":"0.11%","Price":53.48,"Chg":-0.62,"% Chg":"(-1.15%)"}
-{"#":182,"Company":"Iqvia Holdings Inc.","Symbol":"IQV","Portfolio%":"0.11%","Price":239.3,"Chg":-12.27,"% Chg":"(-4.88%)"}
-{"#":183,"Company":"D.R. Horton Inc.","Symbol":"DHI","Portfolio%":"0.11%","Price":152.71,"Chg":0.24,"% Chg":"(0.15%)"}
-{"#":184,"Company":"Digital Realty Trust, Inc.","Symbol":"DLR","Portfolio%":"0.11%","Price":151.63,"Chg":-2.09,"% Chg":"(-1.36%)"}
-{"#":185,"Company":"Fortinet, Inc.","Symbol":"FTNT","Portfolio%":"0.10%","Price":71.63,"Chg":0.24,"% Chg":"(0.34%)"}
-{"#":186,"Company":"Public Storage","Symbol":"PSA","Portfolio%":"0.10%","Price":279.22,"Chg":-5.86,"% Chg":"(-2.06%)"}
-{"#":187,"Company":"Msci, Inc.","Symbol":"MSCI","Portfolio%":"0.10%","Price":563.18,"Chg":4.8,"% Chg":"(0.86%)"}
-{"#":188,"Company":"American Electric Power Company, Inc.","Symbol":"AEP","Portfolio%":"0.10%","Price":84.2,"Chg":-0.76,"% Chg":"(-0.89%)"}
-{"#":189,"Company":"Te Connectivity Ltd","Symbol":"TEL","Portfolio%":"0.10%","Price":140.27,"Chg":-2.8,"% Chg":"(-1.95%)"}
-{"#":190,"Company":"Williams Companies Inc.","Symbol":"WMB","Portfolio%":"0.10%","Price":36.75,"Chg":0.38,"% Chg":"(1.03%)"}
-{"#":191,"Company":"Sempra","Symbol":"SRE","Portfolio%":"0.10%","Price":70.27,"Chg":-0.47,"% Chg":"(-0.66%)"}
-{"#":192,"Company":"Oneok, Inc.","Symbol":"OKE","Portfolio%":"0.10%","Price":77.42,"Chg":0.86,"% Chg":"(1.12%)"}
-{"#":193,"Company":"Monster Beverage Corporation","Symbol":"MNST","Portfolio%":"0.10%","Price":57.0,"Chg":-1.51,"% Chg":"(-2.57%)"}
-{"#":194,"Company":"Realty Income Corporation","Symbol":"O","Portfolio%":"0.10%","Price":52.34,"Chg":-0.37,"% Chg":"(-0.70%)"}
-{"#":195,"Company":"Metlife, Inc.","Symbol":"MET","Portfolio%":"0.10%","Price":70.25,"Chg":0.34,"% Chg":"(0.49%)"}
-{"#":196,"Company":"Humana Inc.","Symbol":"HUM","Portfolio%":"0.10%","Price":338.35,"Chg":-8.48,"% Chg":"(-2.45%)"}
-{"#":197,"Company":"W.W. Grainger, Inc.","Symbol":"GWW","Portfolio%":"0.10%","Price":985.91,"Chg":-1.69,"% Chg":"(-0.17%)"}
-{"#":198,"Company":"Aflac Inc.","Symbol":"AFL","Portfolio%":"0.10%","Price":80.38,"Chg":0.64,"% Chg":"(0.80%)"}
-{"#":199,"Company":"Bank of New York Mellon Corporation","Symbol":"BK","Portfolio%":"0.10%","Price":55.93,"Chg":0.43,"% Chg":"(0.78%)"}
-{"#":200,"Company":"Ametek, Inc.","Symbol":"AME","Portfolio%":"0.10%","Price":179.48,"Chg":-1.62,"% Chg":"(-0.90%)"}
-{"#":201,"Company":"Centene Corporation","Symbol":"CNC","Portfolio%":"0.10%","Price":77.25,"Chg":-1.07,"% Chg":"(-1.37%)"}
-{"#":202,"Company":"Fastenal Co","Symbol":"FAST","Portfolio%":"0.10%","Price":72.92,"Chg":-1.87,"% Chg":"(-2.50%)"}
-{"#":203,"Company":"Ameriprise Financial, Inc.","Symbol":"AMP","Portfolio%":"0.10%","Price":280.0,"Chg":-132.38,"% Chg":"(-32.10%)"}
-{"#":204,"Company":"Kimberly-Clark Corp.","Symbol":"KMB","Portfolio%":"0.10%","Price":123.78,"Chg":0.29,"% Chg":"(0.23%)"}
-{"#":205,"Company":"Fidelity National Information Services, Inc.","Symbol":"FIS","Portfolio%":"0.09%","Price":69.49,"Chg":0.04,"% Chg":"(0.06%)"}
-{"#":206,"Company":"Hess Corporation","Symbol":"HES","Portfolio%":"0.09%","Price":148.49,"Chg":2.88,"% Chg":"(1.98%)"}
-{"#":207,"Company":"Johnson Controls International Plc","Symbol":"JCI","Portfolio%":"0.09%","Price":60.36,"Chg":0.0,"% Chg":"(-0.00%)"}
-{"#":208,"Company":"Agilent Technologies Inc.","Symbol":"A","Portfolio%":"0.09%","Price":138.04,"Chg":-4.82,"% Chg":"(-3.37%)"}
-{"#":209,"Company":"The Allstate Corporation","Symbol":"ALL","Portfolio%":"0.09%","Price":156.72,"Chg":0.34,"% Chg":"(0.22%)"}
-{"#":210,"Company":"Occidental Petroleum Corporation","Symbol":"OXY","Portfolio%":"0.09%","Price":60.55,"Chg":-0.13,"% Chg":"(-0.21%)"}
-{"#":211,"Company":"Constellation Brands, Inc.","Symbol":"STZ","Portfolio%":"0.09%","Price":248.88,"Chg":0.85,"% Chg":"(0.34%)"}
-{"#":212,"Company":"Lennar Corporation Class A","Symbol":"LEN","Portfolio%":"0.09%","Price":159.59,"Chg":-0.94,"% Chg":"(-0.59%)"}
-{"#":213,"Company":"Sysco Corporation","Symbol":"SYY","Portfolio%":"0.09%","Price":79.13,"Chg":-0.39,"% Chg":"(-0.48%)"}
-{"#":214,"Company":"L3harris Technologies, Inc.","Symbol":"LHX","Portfolio%":"0.09%","Price":213.57,"Chg":-2.39,"% Chg":"(-1.11%)"}
-{"#":215,"Company":"Old Dominion Freight Line","Symbol":"ODFL","Portfolio%":"0.09%","Price":403.47,"Chg":-42.77,"% Chg":"(-9.58%)"}
-{"#":216,"Company":"Cencora, Inc.","Symbol":"COR","Portfolio%":"0.09%","Price":232.98,"Chg":-2.82,"% Chg":"(-1.20%)"}
-{"#":217,"Company":"Cognizant Technology Solutions","Symbol":"CTSH","Portfolio%":"0.09%","Price":77.0,"Chg":-2.08,"% Chg":"(-2.64%)"}
-{"#":218,"Company":"Paychex Inc","Symbol":"PAYX","Portfolio%":"0.09%","Price":120.0,"Chg":-2.34,"% Chg":"(-1.91%)"}
-{"#":219,"Company":"Otis Worldwide Corporation","Symbol":"OTIS","Portfolio%":"0.09%","Price":94.56,"Chg":-0.83,"% Chg":"(-0.88%)"}
-{"#":220,"Company":"Dow Inc.","Symbol":"DOW","Portfolio%":"0.09%","Price":56.66,"Chg":-0.37,"% Chg":"(-0.64%)"}
-{"#":221,"Company":"Prudential Financial, Inc.","Symbol":"PRU","Portfolio%":"0.09%","Price":107.98,"Chg":0.88,"% Chg":"(0.83%)"}
-{"#":222,"Company":"Yum! Brands, Inc.","Symbol":"YUM","Portfolio%":"0.09%","Price":136.82,"Chg":-1.74,"% Chg":"(-1.25%)"}
-{"#":223,"Company":"Cummins Inc.","Symbol":"CMI","Portfolio%":"0.09%","Price":273.67,"Chg":2.36,"% Chg":"(0.87%)"}
-{"#":224,"Company":"Corteva, Inc.","Symbol":"CTVA","Portfolio%":"0.09%","Price":53.63,"Chg":0.02,"% Chg":"(0.03%)"}
-{"#":225,"Company":"Republic Services Inc.","Symbol":"RSG","Portfolio%":"0.09%","Price":184.14,"Chg":-0.8,"% Chg":"(-0.43%)"}
-{"#":226,"Company":"Dominion Energy, Inc","Symbol":"D","Portfolio%":"0.09%","Price":46.3,"Chg":-0.41,"% Chg":"(-0.87%)"}
-{"#":227,"Company":"General Mills, Inc.","Symbol":"GIS","Portfolio%":"0.09%","Price":64.7,"Chg":0.33,"% Chg":"(0.51%)"}
-{"#":228,"Company":"Ingersoll Rand Inc.","Symbol":"IR","Portfolio%":"0.09%","Price":89.98,"Chg":-1.56,"% Chg":"(-1.70%)"}
-{"#":229,"Company":"Gartner, Inc.","Symbol":"IT","Portfolio%":"0.09%","Price":325.65,"Chg":-144.1,"% Chg":"(-30.68%)"}
-{"#":230,"Company":"Newmont Corporation","Symbol":"NEM","Portfolio%":"0.08%","Price":33.29,"Chg":-0.19,"% Chg":"(-0.56%)"}
-{"#":231,"Company":"Martin Marietta Materials","Symbol":"MLM","Portfolio%":"0.08%","Price":603.01,"Chg":1.11,"% Chg":"(0.18%)"}
-{"#":232,"Company":"Ge Healthcare Technologies Inc.","Symbol":"GEHC","Portfolio%":"0.08%","Price":91.26,"Chg":-1.47,"% Chg":"(-1.59%)"}
-{"#":233,"Company":"Costar Group Inc","Symbol":"CSGP","Portfolio%":"0.08%","Price":85.4,"Chg":-3.19,"% Chg":"(-3.61%)"}
-{"#":234,"Company":"Monolithic Power Systems, Inc.","Symbol":"MPWR","Portfolio%":"0.08%","Price":710.5,"Chg":-25.18,"% Chg":"(-3.42%)"}
-{"#":235,"Company":"Vulcan Materials Company","Symbol":"VMC","Portfolio%":"0.08%","Price":268.43,"Chg":0.58,"% Chg":"(0.22%)"}
-{"#":236,"Company":"Exelon Corporation","Symbol":"EXC","Portfolio%":"0.08%","Price":35.95,"Chg":-0.26,"% Chg":"(-0.70%)"}
-{"#":237,"Company":"Verisk Analytics, Inc.","Symbol":"VRSK","Portfolio%":"0.08%","Price":258.0,"Chg":18.07,"% Chg":"(7.53%)"}
-{"#":238,"Company":"Quanta Services, Inc.","Symbol":"PWR","Portfolio%":"0.08%","Price":239.75,"Chg":-3.59,"% Chg":"(-1.47%)"}
-{"#":239,"Company":"On Semiconductor Corp","Symbol":"ON","Portfolio%":"0.08%","Price":77.22,"Chg":-2.66,"% Chg":"(-3.34%)"}
-{"#":240,"Company":"Pg&e Corporation","Symbol":"PCG","Portfolio%":"0.08%","Price":16.42,"Chg":-0.42,"% Chg":"(-2.49%)"}
-{"#":241,"Company":"The Estee Lauder Companies Inc. Class A","Symbol":"EL","Portfolio%":"0.08%","Price":148.19,"Chg":0.41,"% Chg":"(0.28%)"}
-{"#":242,"Company":"Electronic Arts Inc","Symbol":"EA","Portfolio%":"0.08%","Price":136.11,"Chg":-2.71,"% Chg":"(-1.95%)"}
-{"#":243,"Company":"Global Payments, Inc.","Symbol":"GPN","Portfolio%":"0.08%","Price":129.66,"Chg":1.11,"% Chg":"(0.86%)"}
-{"#":244,"Company":"Kinder Morgan, Inc.","Symbol":"KMI","Portfolio%":"0.08%","Price":17.7,"Chg":0.13,"% Chg":"(0.74%)"}
-{"#":245,"Company":"Equifax, Incorporated","Symbol":"EFX","Portfolio%":"0.08%","Price":243.91,"Chg":-25.27,"% Chg":"(-9.39%)"}
-{"#":246,"Company":"Rockwell Automation, Inc.","Symbol":"ROK","Portfolio%":"0.08%","Price":287.73,"Chg":-0.44,"% Chg":"(-0.15%)"}
-{"#":247,"Company":"Cdw Corporation","Symbol":"CDW","Portfolio%":"0.08%","Price":240.2,"Chg":-6.47,"% Chg":"(-2.62%)"}
-{"#":248,"Company":"Ppg Industries, Inc.","Symbol":"PPG","Portfolio%":"0.08%","Price":139.44,"Chg":0.22,"% Chg":"(0.16%)"}
-{"#":249,"Company":"Dollar General Corp.","Symbol":"DG","Portfolio%":"0.08%","Price":151.97,"Chg":3.53,"% Chg":"(2.38%)"}
-{"#":250,"Company":"Diamondback Energy, Inc.","Symbol":"FANG","Portfolio%":"0.08%","Price":182.34,"Chg":3.45,"% Chg":"(1.93%)"}
-{"#":251,"Company":"Kenvue Inc.","Symbol":"KVUE","Portfolio%":"0.08%","Price":19.1,"Chg":0.14,"% Chg":"(0.74%)"}
-{"#":252,"Company":"Arch Capital Group Ltd","Symbol":"ACGL","Portfolio%":"0.07%","Price":87.43,"Chg":0.29,"% Chg":"(0.34%)"}
-{"#":253,"Company":"The Kroger Co.","Symbol":"KR","Portfolio%":"0.07%","Price":49.5,"Chg":0.13,"% Chg":"(0.26%)"}
-{"#":254,"Company":"Fair Isaac Corporation","Symbol":"FICO","Portfolio%":"0.07%","Price":1257.3,"Chg":-43.95,"% Chg":"(-3.38%)"}
-{"#":255,"Company":"Biogen Inc.","Symbol":"BIIB","Portfolio%":"0.07%","Price":217.6,"Chg":-3.42,"% Chg":"(-1.55%)"}
-{"#":256,"Company":"Halliburton Company","Symbol":"HAL","Portfolio%":"0.07%","Price":35.11,"Chg":-0.08,"% Chg":"(-0.21%)"}
-{"#":257,"Company":"Moderna, Inc.","Symbol":"MRNA","Portfolio%":"0.07%","Price":94.94,"Chg":-1.06,"% Chg":"(-1.10%)"}
-{"#":258,"Company":"Public Service Enterprise Group Incorporated","Symbol":"PEG","Portfolio%":"0.07%","Price":64.62,"Chg":1.26,"% Chg":"(1.99%)"}
-{"#":259,"Company":"Dollar Tree Inc.","Symbol":"DLTR","Portfolio%":"0.07%","Price":148.26,"Chg":1.84,"% Chg":"(1.25%)"}
-{"#":260,"Company":"Xylem Inc","Symbol":"XYL","Portfolio%":"0.07%","Price":121.68,"Chg":-6.17,"% Chg":"(-4.83%)"}
-{"#":261,"Company":"Vici Properties Inc.","Symbol":"VICI","Portfolio%":"0.07%","Price":29.1,"Chg":-0.63,"% Chg":"(-2.10%)"}
-{"#":262,"Company":"Extra Space Storage, Inc.","Symbol":"EXR","Portfolio%":"0.07%","Price":145.03,"Chg":-2.45,"% Chg":"(-1.66%)"}
-{"#":263,"Company":"Discover Financial Services","Symbol":"DFS","Portfolio%":"0.07%","Price":121.28,"Chg":1.21,"% Chg":"(1.00%)"}
-{"#":264,"Company":"Fortive Corporation","Symbol":"FTV","Portfolio%":"0.07%","Price":84.12,"Chg":-0.67,"% Chg":"(-0.79%)"}
-{"#":265,"Company":"Baker Hughes Company","Symbol":"BKR","Portfolio%":"0.07%","Price":29.85,"Chg":0.41,"% Chg":"(1.41%)"}
-{"#":266,"Company":"Consolidated Edison, Inc.","Symbol":"ED","Portfolio%":"0.07%","Price":88.93,"Chg":-0.2,"% Chg":"(-0.22%)"}
-{"#":267,"Company":"Dupont De Nemours, Inc.","Symbol":"DD","Portfolio%":"0.07%","Price":68.82,"Chg":-0.83,"% Chg":"(-1.18%)"}
-{"#":268,"Company":"Keurig Dr Pepper Inc.","Symbol":"KDP","Portfolio%":"0.07%","Price":29.45,"Chg":0.35,"% Chg":"(1.20%)"}
-{"#":269,"Company":"Ansys Inc","Symbol":"ANSS","Portfolio%":"0.07%","Price":327.49,"Chg":-12.99,"% Chg":"(-3.82%)"}
-{"#":270,"Company":"Charter Comm Inc Del Cl a","Symbol":"CHTR","Portfolio%":"0.07%","Price":279.44,"Chg":0.38,"% Chg":"(0.14%)"}
-{"#":271,"Company":"Royal Caribbean Group","Symbol":"RCL","Portfolio%":"0.07%","Price":126.42,"Chg":1.12,"% Chg":"(0.89%)"}
-{"#":272,"Company":"Archer Daniels Midland Company","Symbol":"ADM","Portfolio%":"0.07%","Price":53.43,"Chg":0.21,"% Chg":"(0.39%)"}
-{"#":273,"Company":"Devon Energy Corporation","Symbol":"DVN","Portfolio%":"0.07%","Price":45.24,"Chg":0.87,"% Chg":"(1.96%)"}
-{"#":274,"Company":"The Hartford Financial Services Group, Inc.","Symbol":"HIG","Portfolio%":"0.07%","Price":95.87,"Chg":1.06,"% Chg":"(1.12%)"}
-{"#":275,"Company":"Cbre Group, Inc.","Symbol":"CBRE","Portfolio%":"0.07%","Price":91.91,"Chg":-0.25,"% Chg":"(-0.27%)"}
-{"#":276,"Company":"The Hershey Company","Symbol":"HSY","Portfolio%":"0.07%","Price":188.29,"Chg":4.28,"% Chg":"(2.33%)"}
-{"#":277,"Company":"Willis Towers Watson Public Limited Companys","Symbol":"WTW","Portfolio%":"0.06%","Price":271.59,"Chg":-0.5,"% Chg":"(-0.18%)"}
-{"#":278,"Company":"The Kraft Heinz Company","Symbol":"KHC","Portfolio%":"0.06%","Price":35.11,"Chg":0.07,"% Chg":"(0.20%)"}
-{"#":279,"Company":"Cardinal Health, Inc.","Symbol":"CAH","Portfolio%":"0.06%","Price":113.75,"Chg":1.11,"% Chg":"(0.99%)"}
-{"#":280,"Company":"Keysight Technologies, Inc.","Symbol":"KEYS","Portfolio%":"0.06%","Price":150.63,"Chg":-6.87,"% Chg":"(-4.36%)"}
-{"#":281,"Company":"Mettler-Toledo International","Symbol":"MTD","Portfolio%":"0.06%","Price":1044.28,"Chg":-242.26,"% Chg":"(-18.83%)"}
-{"#":282,"Company":"Tractor Supply Co","Symbol":"TSCO","Portfolio%":"0.06%","Price":247.91,"Chg":-5.35,"% Chg":"(-2.11%)"}
-{"#":283,"Company":"Xcel Energy, Inc.","Symbol":"XEL","Portfolio%":"0.06%","Price":48.8,"Chg":-2.26,"% Chg":"(-4.43%)"}
-{"#":284,"Company":"Delta Air Lines, Inc.","Symbol":"DAL","Portfolio%":"0.06%","Price":41.8,"Chg":0.23,"% Chg":"(0.55%)"}
-{"#":285,"Company":"Ulta Beauty, Inc.","Symbol":"ULTA","Portfolio%":"0.06%","Price":552.25,"Chg":5.71,"% Chg":"(1.04%)"}
-{"#":286,"Company":"West Pharmaceutical Services, Inc.","Symbol":"WST","Portfolio%":"0.06%","Price":261.5,"Chg":-97.29,"% Chg":"(-27.12%)"}
-{"#":287,"Company":"Howmet Aerospace Inc.","Symbol":"HWM","Portfolio%":"0.06%","Price":68.8,"Chg":1.0,"% Chg":"(1.48%)"}
-{"#":288,"Company":"Zimmer Biomet Holdings, Inc.","Symbol":"ZBH","Portfolio%":"0.06%","Price":124.88,"Chg":-0.63,"% Chg":"(-0.51%)"}
-{"#":289,"Company":"Resmed Inc.","Symbol":"RMD","Portfolio%":"0.06%","Price":177.39,"Chg":-3.33,"% Chg":"(-1.84%)"}
-{"#":290,"Company":"Hp Inc.","Symbol":"HPQ","Portfolio%":"0.06%","Price":29.24,"Chg":0.18,"% Chg":"(0.62%)"}
-{"#":291,"Company":"Weyerhaeuser Company","Symbol":"WY","Portfolio%":"0.06%","Price":34.47,"Chg":-0.89,"% Chg":"(-2.52%)"}
-{"#":292,"Company":"Wabtec Inc.","Symbol":"WAB","Portfolio%":"0.06%","Price":104.63,"Chg":-37.44,"% Chg":"(-26.35%)"}
-{"#":293,"Company":"Edison International","Symbol":"EIX","Portfolio%":"0.06%","Price":66.81,"Chg":-0.65,"% Chg":"(-0.97%)"}
-{"#":294,"Company":"T Rowe Price Group Inc","Symbol":"TROW","Portfolio%":"0.06%","Price":114.04,"Chg":-2.51,"% Chg":"(-2.16%)"}
-{"#":295,"Company":"Lyondellbasell Industries N.v. Class A","Symbol":"LYB","Portfolio%":"0.06%","Price":101.04,"Chg":-0.63,"% Chg":"(-0.61%)"}
-{"#":296,"Company":"Avalonbay Communities, Inc.","Symbol":"AVB","Portfolio%":"0.06%","Price":183.66,"Chg":-1.51,"% Chg":"(-0.82%)"}
-{"#":297,"Company":"Ebay Inc","Symbol":"EBAY","Portfolio%":"0.06%","Price":49.59,"Chg":0.68,"% Chg":"(1.39%)"}
-{"#":298,"Company":"Corning Incorporated","Symbol":"GLW","Portfolio%":"0.06%","Price":32.6,"Chg":-0.78,"% Chg":"(-2.35%)"}
-{"#":299,"Company":"Wec Energy Group, Inc.","Symbol":"WEC","Portfolio%":"0.06%","Price":80.17,"Chg":0.45,"% Chg":"(0.56%)"}
-{"#":300,"Company":"Builders Firstsource, Inc.","Symbol":"BLDR","Portfolio%":"0.06%","Price":198.07,"Chg":-2.78,"% Chg":"(-1.38%)"}
-{"#":301,"Company":"Church & Dwight Co., Inc.","Symbol":"CHD","Portfolio%":"0.06%","Price":101.92,"Chg":0.98,"% Chg":"(0.97%)"}
-{"#":302,"Company":"Nvr, Inc.","Symbol":"NVR","Portfolio%":"0.06%","Price":7574.4,"Chg":-77.43,"% Chg":"(-1.01%)"}
-{"#":303,"Company":"Broadridge Financial Solutions Inc","Symbol":"BR","Portfolio%":"0.06%","Price":201.39,"Chg":-4.18,"% Chg":"(-2.03%)"}
-{"#":304,"Company":"Pultegroup, Inc.","Symbol":"PHM","Portfolio%":"0.06%","Price":110.47,"Chg":-0.56,"% Chg":"(-0.51%)"}
-{"#":305,"Company":"Take-Two Interactive Software Inc","Symbol":"TTWO","Portfolio%":"0.06%","Price":142.95,"Chg":-3.39,"% Chg":"(-2.31%)"}
-{"#":306,"Company":"Iron Mountain Inc.","Symbol":"IRM","Portfolio%":"0.05%","Price":78.82,"Chg":-0.11,"% Chg":"(-0.14%)"}
-{"#":307,"Company":"Fifth Third Bancorp","Symbol":"FITB","Portfolio%":"0.05%","Price":36.25,"Chg":0.77,"% Chg":"(2.17%)"}
-{"#":308,"Company":"Dover Corporation","Symbol":"DOV","Portfolio%":"0.05%","Price":167.3,"Chg":-0.56,"% Chg":"(-0.33%)"}
-{"#":309,"Company":"American Water Works Company, Inc","Symbol":"AWK","Portfolio%":"0.05%","Price":121.3,"Chg":-0.4,"% Chg":"(-0.33%)"}
-{"#":310,"Company":"Steris Plc","Symbol":"STE","Portfolio%":"0.05%","Price":228.98,"Chg":-4.29,"% Chg":"(-1.84%)"}
-{"#":311,"Company":"State Street Corporation","Symbol":"STT","Portfolio%":"0.05%","Price":73.36,"Chg":-0.64,"% Chg":"(-0.86%)"}
-{"#":312,"Company":"M&t Bank Corp.","Symbol":"MTB","Portfolio%":"0.05%","Price":141.48,"Chg":1.53,"% Chg":"(1.09%)"}
-{"#":313,"Company":"Raymond James Financial, Inc.","Symbol":"RJF","Portfolio%":"0.05%","Price":121.44,"Chg":0.57,"% Chg":"(0.47%)"}
-{"#":314,"Company":"Molina Healthcare, Inc.","Symbol":"MOH","Portfolio%":"0.05%","Price":250.0,"Chg":-136.55,"% Chg":"(-35.33%)"}
-{"#":315,"Company":"Sba Communications Corp","Symbol":"SBAC","Portfolio%":"0.05%","Price":216.5,"Chg":4.45,"% Chg":"(2.10%)"}
-{"#":316,"Company":"Aptiv Plc","Symbol":"APTV","Portfolio%":"0.05%","Price":79.14,"Chg":0.65,"% Chg":"(0.82%)"}
-{"#":317,"Company":"Ptc, Inc","Symbol":"PTC","Portfolio%":"0.05%","Price":172.0,"Chg":-15.22,"% Chg":"(-8.13%)"}
-{"#":318,"Company":"Dte Energy Company","Symbol":"DTE","Portfolio%":"0.05%","Price":110.86,"Chg":1.06,"% Chg":"(0.97%)"}
-{"#":319,"Company":"Axon Enterprise, Inc.","Symbol":"AXON","Portfolio%":"0.05%","Price":307.92,"Chg":-11.96,"% Chg":"(-3.74%)"}
-{"#":320,"Company":"Illumina Inc","Symbol":"ILMN","Portfolio%":"0.05%","Price":136.5,"Chg":-1.2,"% Chg":"(-0.87%)"}
-{"#":321,"Company":"Targa Resources Corp.","Symbol":"TRGP","Portfolio%":"0.05%","Price":101.24,"Chg":0.25,"% Chg":"(0.25%)"}
-{"#":322,"Company":"Netapp, Inc","Symbol":"NTAP","Portfolio%":"0.05%","Price":102.88,"Chg":-0.45,"% Chg":"(-0.44%)"}
-{"#":323,"Company":"Align Technology Inc","Symbol":"ALGN","Portfolio%":"0.05%","Price":296.99,"Chg":-11.05,"% Chg":"(-3.59%)"}
-{"#":324,"Company":"Entergy Corporation","Symbol":"ETR","Portfolio%":"0.05%","Price":102.1,"Chg":0.08,"% Chg":"(0.08%)"}
-{"#":325,"Company":"Garmin Ltd","Symbol":"GRMN","Portfolio%":"0.05%","Price":141.11,"Chg":1.44,"% Chg":"(1.03%)"}
-{"#":326,"Company":"Genuine Parts Company","Symbol":"GPC","Portfolio%":"0.05%","Price":149.97,"Chg":0.0,"% Chg":"(-0.00%)"}
-{"#":327,"Company":"Equity Residential","Symbol":"EQR","Portfolio%":"0.05%","Price":62.62,"Chg":-0.24,"% Chg":"(-0.38%)"}
-{"#":328,"Company":"Baxter International Inc.","Symbol":"BAX","Portfolio%":"0.05%","Price":42.11,"Chg":-0.39,"% Chg":"(-0.93%)"}
-{"#":329,"Company":"Hubbell Incorporated","Symbol":"HUBB","Portfolio%":"0.05%","Price":380.72,"Chg":-7.02,"% Chg":"(-1.81%)"}
-{"#":330,"Company":"Western Digital Corp.","Symbol":"WDC","Portfolio%":"0.05%","Price":63.45,"Chg":-0.87,"% Chg":"(-1.36%)"}
-{"#":331,"Company":"Darden Restaurants, Inc.","Symbol":"DRI","Portfolio%":"0.05%","Price":173.12,"Chg":-0.94,"% Chg":"(-0.54%)"}
-{"#":332,"Company":"Waters Corp","Symbol":"WAT","Portfolio%":"0.05%","Price":390.0,"Chg":43.24,"% Chg":"(12.47%)"}
-{"#":333,"Company":"Steel Dynamics Inc","Symbol":"STLD","Portfolio%":"0.05%","Price":128.52,"Chg":-1.72,"% Chg":"(-1.32%)"}
-{"#":334,"Company":"The Cooper Companies, Inc.","Symbol":"COO","Portfolio%":"0.05%","Price":122.16,"Chg":19.39,"% Chg":"(18.86%)"}
-{"#":335,"Company":"Southwest Airlines Co.","Symbol":"LUV","Portfolio%":"0.05%","Price":34.35,"Chg":0.23,"% Chg":"(0.69%)"}
-{"#":336,"Company":"Ball Corporation","Symbol":"BALL","Portfolio%":"0.05%","Price":63.87,"Chg":-0.65,"% Chg":"(-1.01%)"}
-{"#":337,"Company":"Eversource Energy","Symbol":"ES","Portfolio%":"0.05%","Price":59.75,"Chg":0.84,"% Chg":"(1.43%)"}
-{"#":338,"Company":"Teledyne Technologies Incorporated","Symbol":"TDY","Portfolio%":"0.05%","Price":426.67,"Chg":-1.78,"% Chg":"(-0.42%)"}
-{"#":339,"Company":"Fleetcor Technologies, Inc.","Symbol":"FLT","Portfolio%":"0.05%","Price":280.91,"Chg":-0.76,"% Chg":"(-0.27%)"}
-{"#":340,"Company":"Hewlett Packard Enterprise Company","Symbol":"HPE","Portfolio%":"0.05%","Price":18.17,"Chg":1.02,"% Chg":"(5.95%)"}
-{"#":341,"Company":"Invitation Homes Inc.","Symbol":"INVH","Portfolio%":"0.05%","Price":33.6,"Chg":-1.81,"% Chg":"(-5.13%)"}
-{"#":342,"Company":"Brown & Brown, Inc.","Symbol":"BRO","Portfolio%":"0.05%","Price":81.45,"Chg":-2.5,"% Chg":"(-2.98%)"}
-{"#":343,"Company":"Cboe Global Markets, Inc.","Symbol":"CBOE","Portfolio%":"0.05%","Price":189.65,"Chg":0.29,"% Chg":"(0.15%)"}
-{"#":344,"Company":"Coterra Energy Inc.","Symbol":"CTRA","Portfolio%":"0.05%","Price":26.78,"Chg":0.27,"% Chg":"(1.04%)"}
-{"#":345,"Company":"International Flavors & Fragrances Inc.","Symbol":"IFF","Portfolio%":"0.04%","Price":75.36,"Chg":-0.68,"% Chg":"(-0.89%)"}
-{"#":346,"Company":"Alexandria Real Estate Equities, Inc.","Symbol":"ARE","Portfolio%":"0.04%","Price":123.78,"Chg":-2.23,"% Chg":"(-1.77%)"}
-{"#":347,"Company":"Warner Bros. Discovery, Inc. Series a","Symbol":"WBD","Portfolio%":"0.04%","Price":8.18,"Chg":0.07,"% Chg":"(0.80%)"}
-{"#":348,"Company":"Ppl Corporation","Symbol":"PPL","Portfolio%":"0.04%","Price":26.8,"Chg":0.06,"% Chg":"(0.21%)"}
-{"#":349,"Company":"Nasdaq, Inc.","Symbol":"NDAQ","Portfolio%":"0.04%","Price":56.9,"Chg":-0.07,"% Chg":"(-0.13%)"}
-{"#":350,"Company":"Veralto Corporation","Symbol":"VLTO","Portfolio%":"0.04%","Price":88.13,"Chg":0.39,"% Chg":"(0.44%)"}
-{"#":351,"Company":"Las Vegas Sands Corp.","Symbol":"LVS","Portfolio%":"0.04%","Price":51.04,"Chg":0.33,"% Chg":"(0.66%)"}
-{"#":352,"Company":"Firstenergy Corp.","Symbol":"FE","Portfolio%":"0.04%","Price":36.57,"Chg":-0.7,"% Chg":"(-1.88%)"}
-{"#":353,"Company":"Clorox Company","Symbol":"CLX","Portfolio%":"0.04%","Price":150.68,"Chg":-0.26,"% Chg":"(-0.18%)"}
-{"#":354,"Company":"Jabil Inc.","Symbol":"JBL","Portfolio%":"0.04%","Price":151.13,"Chg":2.5,"% Chg":"(1.69%)"}
-{"#":355,"Company":"Seagate Technology Holdings Plcs","Symbol":"STX","Portfolio%":"0.04%","Price":98.72,"Chg":0.34,"% Chg":"(0.34%)"}
-{"#":356,"Company":"Huntington Bancshares Inc","Symbol":"HBAN","Portfolio%":"0.04%","Price":13.61,"Chg":0.25,"% Chg":"(1.87%)"}
-{"#":357,"Company":"Laboratory Corporation of America Holdings","Symbol":"LH","Portfolio%":"0.04%","Price":213.63,"Chg":-5.47,"% Chg":"(-2.50%)"}
-{"#":358,"Company":"Jacobs Solutions Inc.","Symbol":"J","Portfolio%":"0.04%","Price":147.19,"Chg":0.05,"% Chg":"(0.04%)"}
-{"#":359,"Company":"Ameren Corporation","Symbol":"AEE","Portfolio%":"0.04%","Price":77.76,"Chg":5.08,"% Chg":"(7.00%)"}
-{"#":360,"Company":"Tyler Technologies, Inc.","Symbol":"TYL","Portfolio%":"0.04%","Price":477.78,"Chg":39.63,"% Chg":"(9.05%)"}
-{"#":361,"Company":"Expedia Group, Inc.","Symbol":"EXPE","Portfolio%":"0.04%","Price":133.92,"Chg":-1.6,"% Chg":"(-1.18%)"}
-{"#":362,"Company":"Hologic Inc","Symbol":"HOLX","Portfolio%":"0.04%","Price":74.51,"Chg":-0.09,"% Chg":"(-0.13%)"}
-{"#":363,"Company":"Idex Corporation","Symbol":"IEX","Portfolio%":"0.04%","Price":235.38,"Chg":-2.24,"% Chg":"(-0.94%)"}
-{"#":364,"Company":"Cincinnati Financial Corp","Symbol":"CINF","Portfolio%":"0.04%","Price":114.21,"Chg":1.79,"% Chg":"(1.59%)"}
-{"#":365,"Company":"Enphase Energy, Inc.","Symbol":"ENPH","Portfolio%":"0.04%","Price":125.38,"Chg":1.41,"% Chg":"(1.14%)"}
-{"#":366,"Company":"Ventas, Inc.","Symbol":"VTR","Portfolio%":"0.04%","Price":42.98,"Chg":-1.12,"% Chg":"(-2.54%)"}
-{"#":367,"Company":"Epam Systems, Inc.","Symbol":"EPAM","Portfolio%":"0.04%","Price":300.5,"Chg":-7.42,"% Chg":"(-2.41%)"}
-{"#":368,"Company":"Principal Financial Group, Inc.","Symbol":"PFG","Portfolio%":"0.04%","Price":80.46,"Chg":-0.22,"% Chg":"(-0.27%)"}
-{"#":369,"Company":"Expeditors International of Washington, Inc.","Symbol":"EXPD","Portfolio%":"0.04%","Price":116.03,"Chg":-3.93,"% Chg":"(-3.28%)"}
-{"#":370,"Company":"Factset Research Systems","Symbol":"FDS","Portfolio%":"0.04%","Price":465.09,"Chg":0.11,"% Chg":"(0.02%)"}
-{"#":371,"Company":"Omnicom Group Inc.","Symbol":"OMC","Portfolio%":"0.04%","Price":89.08,"Chg":-0.13,"% Chg":"(-0.14%)"}
-{"#":372,"Company":"Avery Dennison Corp.","Symbol":"AVY","Portfolio%":"0.04%","Price":191.37,"Chg":-24.76,"% Chg":"(-11.45%)"}
-{"#":373,"Company":"Masco Corporation","Symbol":"MAS","Portfolio%":"0.04%","Price":75.75,"Chg":-2.13,"% Chg":"(-2.73%)"}
-{"#":374,"Company":"Leidos Holdings, Inc.","Symbol":"LDOS","Portfolio%":"0.04%","Price":130.58,"Chg":1.06,"% Chg":"(0.82%)"}
-{"#":375,"Company":"Textron, Inc.","Symbol":"TXT","Portfolio%":"0.04%","Price":88.0,"Chg":-1.39,"% Chg":"(-1.55%)"}
-{"#":376,"Company":"Centerpoint Energy, Inc.","Symbol":"CNP","Portfolio%":"0.04%","Price":27.85,"Chg":-0.09,"% Chg":"(-0.32%)"}
-{"#":377,"Company":"Verisign Inc","Symbol":"VRSN","Portfolio%":"0.04%","Price":195.69,"Chg":3.51,"% Chg":"(1.82%)"}
-{"#":378,"Company":"Regions Financial Corp.","Symbol":"RF","Portfolio%":"0.04%","Price":19.42,"Chg":0.4,"% Chg":"(2.10%)"}
-{"#":379,"Company":"Northern Trust Corp","Symbol":"NTRS","Portfolio%":"0.04%","Price":85.05,"Chg":0.5,"% Chg":"(0.59%)"}
-{"#":380,"Company":"Mccormick & Company, Incorporated Non-Vtg Cs","Symbol":"MKC","Portfolio%":"0.04%","Price":68.64,"Chg":0.16,"% Chg":"(0.23%)"}
-{"#":381,"Company":"Cms Energy Corporation","Symbol":"CMS","Portfolio%":"0.04%","Price":59.3,"Chg":0.33,"% Chg":"(0.56%)"}
-{"#":382,"Company":"Skyworks Solutions Inc","Symbol":"SWKS","Portfolio%":"0.04%","Price":101.24,"Chg":-3.66,"% Chg":"(-3.49%)"}
-{"#":383,"Company":"Synchrony Financial","Symbol":"SYF","Portfolio%":"0.04%","Price":40.81,"Chg":0.18,"% Chg":"(0.44%)"}
-{"#":384,"Company":"First Solar, Inc.","Symbol":"FSLR","Portfolio%":"0.04%","Price":159.59,"Chg":2.89,"% Chg":"(1.84%)"}
-{"#":385,"Company":"W.R. Berkley Corporation","Symbol":"WRB","Portfolio%":"0.04%","Price":84.04,"Chg":0.43,"% Chg":"(0.51%)"}
-{"#":386,"Company":"Albemarle Corporation","Symbol":"ALB","Portfolio%":"0.04%","Price":110.01,"Chg":-23.19,"% Chg":"(-17.41%)"}
-{"#":387,"Company":"Atmos Energy Corporation","Symbol":"ATO","Portfolio%":"0.04%","Price":114.48,"Chg":-0.2,"% Chg":"(-0.17%)"}
-{"#":388,"Company":"Akamai Technologies Inc","Symbol":"AKAM","Portfolio%":"0.04%","Price":110.22,"Chg":-0.54,"% Chg":"(-0.49%)"}
-{"#":389,"Company":"Jb Hunt Transport Services Inc","Symbol":"JBHT","Portfolio%":"0.04%","Price":200.34,"Chg":-1.02,"% Chg":"(-0.51%)"}
-{"#":390,"Company":"Teradyne, Inc.","Symbol":"TER","Portfolio%":"0.04%","Price":105.18,"Chg":-0.65,"% Chg":"(-0.62%)"}
-{"#":391,"Company":"Packaging Corp of America","Symbol":"PKG","Portfolio%":"0.04%","Price":184.35,"Chg":-1.08,"% Chg":"(-0.58%)"}
-{"#":392,"Company":"Carnival Corporation","Symbol":"CCL","Portfolio%":"0.04%","Price":15.91,"Chg":-0.16,"% Chg":"(-1.00%)"}
-{"#":393,"Company":"Everest Group, Ltd.","Symbol":"EG","Portfolio%":"0.04%","Price":367.11,"Chg":-0.39,"% Chg":"(-0.11%)"}
-{"#":394,"Company":"Cf Industries Holding, Inc.","Symbol":"CF","Portfolio%":"0.04%","Price":79.53,"Chg":-0.33,"% Chg":"(-0.41%)"}
-{"#":395,"Company":"Pool Corporation","Symbol":"POOL","Portfolio%":"0.04%","Price":273.9,"Chg":-128.24,"% Chg":"(-31.89%)"}
-{"#":396,"Company":"Domino's Pizza Inc.","Symbol":"DPZ","Portfolio%":"0.04%","Price":450.08,"Chg":0.08,"% Chg":"(0.02%)"}
-{"#":397,"Company":"Trimble Inc.","Symbol":"TRMB","Portfolio%":"0.04%","Price":61.8,"Chg":-0.75,"% Chg":"(-1.20%)"}
-{"#":398,"Company":"Walgreens Boots Alliance, Inc","Symbol":"WBA","Portfolio%":"0.04%","Price":20.99,"Chg":0.41,"% Chg":"(1.97%)"}
-{"#":399,"Company":"Celanese Corporation","Symbol":"CE","Portfolio%":"0.04%","Price":141.39,"Chg":-13.5,"% Chg":"(-8.72%)"}
-{"#":400,"Company":"Eqt Corp","Symbol":"EQT","Portfolio%":"0.04%","Price":37.99,"Chg":0.45,"% Chg":"(1.21%)"}
-{"#":401,"Company":"Tyson Foods, Inc.","Symbol":"TSN","Portfolio%":"0.04%","Price":53.72,"Chg":0.34,"% Chg":"(0.64%)"}
-{"#":402,"Company":"Viatris Inc.","Symbol":"VTRS","Portfolio%":"0.04%","Price":12.27,"Chg":-0.09,"% Chg":"(-0.73%)"}
-{"#":403,"Company":"Best Buy Company, Inc.","Symbol":"BBY","Portfolio%":"0.03%","Price":75.86,"Chg":-1.68,"% Chg":"(-2.17%)"}
-{"#":404,"Company":"Essex Property Trust, Inc","Symbol":"ESS","Portfolio%":"0.03%","Price":242.84,"Chg":-0.74,"% Chg":"(-0.30%)"}
-{"#":405,"Company":"Zebra Technologies Corporation","Symbol":"ZBRA","Portfolio%":"0.03%","Price":285.34,"Chg":-6.31,"% Chg":"(-2.17%)"}
-{"#":406,"Company":"Mid-America Apartment Communities, Inc.","Symbol":"MAA","Portfolio%":"0.03%","Price":128.94,"Chg":-0.37,"% Chg":"(-0.28%)"}
-{"#":407,"Company":"Host Hotels & Resorts, Inc.","Symbol":"HST","Portfolio%":"0.03%","Price":20.55,"Chg":-0.52,"% Chg":"(-2.47%)"}
-{"#":408,"Company":"Citizens Financial Group, Inc.","Symbol":"CFG","Portfolio%":"0.03%","Price":33.34,"Chg":1.41,"% Chg":"(4.42%)"}
-{"#":409,"Company":"United Airlines Holdings, Inc.","Symbol":"UAL","Portfolio%":"0.03%","Price":43.73,"Chg":-0.41,"% Chg":"(-0.94%)"}
-{"#":410,"Company":"Snap-on Incorporated","Symbol":"SNA","Portfolio%":"0.03%","Price":283.09,"Chg":-1.42,"% Chg":"(-0.50%)"}
-{"#":411,"Company":"Lamb Weston Holdings, Inc.","Symbol":"LW","Portfolio%":"0.03%","Price":103.03,"Chg":0.79,"% Chg":"(0.77%)"}
-{"#":412,"Company":"Kellanova","Symbol":"K","Portfolio%":"0.03%","Price":53.35,"Chg":-0.37,"% Chg":"(-0.69%)"}
-{"#":413,"Company":"Marathon Oil Corporation","Symbol":"MRO","Portfolio%":"0.03%","Price":24.2,"Chg":-0.06,"% Chg":"(-0.25%)"}
-{"#":414,"Company":"Nordson Corp","Symbol":"NDSN","Portfolio%":"0.03%","Price":261.84,"Chg":-3.49,"% Chg":"(-1.31%)"}
-{"#":415,"Company":"Lkq Corporation","Symbol":"LKQ","Portfolio%":"0.03%","Price":51.85,"Chg":-0.24,"% Chg":"(-0.45%)"}
-{"#":416,"Company":"Quest Diagnostics Inc.","Symbol":"DGX","Portfolio%":"0.03%","Price":124.54,"Chg":-0.77,"% Chg":"(-0.62%)"}
-{"#":417,"Company":"Stanley Black & Decker, Inc.","Symbol":"SWK","Portfolio%":"0.03%","Price":88.88,"Chg":-0.73,"% Chg":"(-0.81%)"}
-{"#":418,"Company":"Live Nation Entertainment Inc.","Symbol":"LYV","Portfolio%":"0.03%","Price":98.21,"Chg":-0.49,"% Chg":"(-0.49%)"}
-{"#":419,"Company":"Loews Corporation","Symbol":"L","Portfolio%":"0.03%","Price":49.93,"Chg":-24.42,"% Chg":"(-32.84%)"}
-{"#":420,"Company":"Bunge Global Sa","Symbol":"BG","Portfolio%":"0.03%","Price":90.36,"Chg":0.27,"% Chg":"(0.30%)"}
-{"#":421,"Company":"Charles River Laboratories International, Inc.","Symbol":"CRL","Portfolio%":"0.03%","Price":236.0,"Chg":-22.92,"% Chg":"(-8.85%)"}
-{"#":422,"Company":"Keycorp","Symbol":"KEY","Portfolio%":"0.03%","Price":15.1,"Chg":0.52,"% Chg":"(3.53%)"}
-{"#":423,"Company":"Revvity, Inc.","Symbol":"RVTY","Portfolio%":"0.03%","Price":106.2,"Chg":-2.31,"% Chg":"(-2.13%)"}
-{"#":424,"Company":"Conagra Brands, Inc.","Symbol":"CAG","Portfolio%":"0.03%","Price":27.81,"Chg":0.11,"% Chg":"(0.38%)"}
-{"#":425,"Company":"Amcor Plcs","Symbol":"AMCR","Portfolio%":"0.03%","Price":9.15,"Chg":-0.03,"% Chg":"(-0.27%)"}
-{"#":426,"Company":"Pentair Plc","Symbol":"PNR","Portfolio%":"0.03%","Price":77.47,"Chg":-1.0,"% Chg":"(-1.28%)"}
-{"#":427,"Company":"Nrg Energy, Inc.","Symbol":"NRG","Portfolio%":"0.03%","Price":60.65,"Chg":2.96,"% Chg":"(5.12%)"}
-{"#":428,"Company":"Carmax Inc.","Symbol":"KMX","Portfolio%":"0.03%","Price":79.42,"Chg":-0.16,"% Chg":"(-0.20%)"}
-{"#":429,"Company":"The J.M. Smucker Company","Symbol":"SJM","Portfolio%":"0.03%","Price":123.0,"Chg":1.04,"% Chg":"(0.85%)"}
-{"#":430,"Company":"Henry (Jack) & Associates","Symbol":"JKHY","Portfolio%":"0.03%","Price":172.55,"Chg":-1.0,"% Chg":"(-0.58%)"}
-{"#":431,"Company":"Rollins, Inc.","Symbol":"ROL","Portfolio%":"0.03%","Price":44.29,"Chg":-0.79,"% Chg":"(-1.75%)"}
-{"#":432,"Company":"Gen Digital Inc.","Symbol":"GEN","Portfolio%":"0.03%","Price":21.2,"Chg":-0.5,"% Chg":"(-2.30%)"}
-{"#":433,"Company":"International Paper Co.","Symbol":"IP","Portfolio%":"0.03%","Price":35.81,"Chg":-0.08,"% Chg":"(-0.21%)"}
-{"#":434,"Company":"Symbol Not Found","Symbol":"PEAK","Portfolio%":"0.03%","Price":null,"Chg":null,"% Chg":"(NaN%)"}
-{"#":435,"Company":"Kimco Realty Corp.","Symbol":"KIM","Portfolio%":"0.03%","Price":19.62,"Chg":-0.01,"% Chg":"(-0.03%)"}
-{"#":436,"Company":"Alliant Energy Corporation","Symbol":"LNT","Portfolio%":"0.03%","Price":49.49,"Chg":0.95,"% Chg":"(1.95%)"}
-{"#":437,"Company":"The Interpublic Group of Companies, Inc.","Symbol":"IPG","Portfolio%":"0.03%","Price":31.81,"Chg":-0.13,"% Chg":"(-0.42%)"}
-{"#":438,"Company":"Juniper Networks Inc","Symbol":"JNPR","Portfolio%":"0.03%","Price":37.46,"Chg":-0.18,"% Chg":"(-0.48%)"}
-{"#":439,"Company":"Insulet Corporation","Symbol":"PODD","Portfolio%":"0.03%","Price":164.5,"Chg":-3.32,"% Chg":"(-1.98%)"}
-{"#":440,"Company":"Bio-Techne Corp.","Symbol":"TECH","Portfolio%":"0.03%","Price":77.56,"Chg":2.68,"% Chg":"(3.58%)"}
-{"#":441,"Company":"Mgm Resorts International","Symbol":"MGM","Portfolio%":"0.03%","Price":42.0,"Chg":-0.01,"% Chg":"(-0.02%)"}
-{"#":442,"Company":"Qorvo, Inc.","Symbol":"QRVO","Portfolio%":"0.03%","Price":113.71,"Chg":-6.52,"% Chg":"(-5.42%)"}
-{"#":443,"Company":"Huntington Ingalls Industries, Inc.","Symbol":"HII","Portfolio%":"0.03%","Price":291.22,"Chg":-5.21,"% Chg":"(-1.76%)"}
-{"#":444,"Company":"Molson Coors Beverage Company Class B","Symbol":"TAP","Portfolio%":"0.03%","Price":62.62,"Chg":0.27,"% Chg":"(0.44%)"}
-{"#":445,"Company":"Westrock Company","Symbol":"WRK","Portfolio%":"0.03%","Price":45.09,"Chg":0.12,"% Chg":"(0.27%)"}
-{"#":446,"Company":"Evergy, Inc.","Symbol":"EVRG","Portfolio%":"0.03%","Price":51.01,"Chg":1.02,"% Chg":"(2.03%)"}
-{"#":447,"Company":"F5, Inc.","Symbol":"FFIV","Portfolio%":"0.03%","Price":187.25,"Chg":-6.05,"% Chg":"(-3.13%)"}
-{"#":448,"Company":"Allegion Public Limited Company","Symbol":"ALLE","Portfolio%":"0.03%","Price":127.55,"Chg":-1.24,"% Chg":"(-0.96%)"}
-{"#":449,"Company":"Incyte Genomics Inc","Symbol":"INCY","Portfolio%":"0.03%","Price":58.96,"Chg":-0.76,"% Chg":"(-1.27%)"}
-{"#":450,"Company":"Brown-Forman Corporation Class B","Symbol":"BF.B","Portfolio%":"0.03%","Price":60.54,"Chg":0.28,"% Chg":"(0.46%)"}
-{"#":451,"Company":"Udr, Inc.","Symbol":"UDR","Portfolio%":"0.03%","Price":37.17,"Chg":-0.11,"% Chg":"(-0.31%)"}
-{"#":452,"Company":"Tapestry, Inc.","Symbol":"TPR","Portfolio%":"0.03%","Price":47.5,"Chg":0.22,"% Chg":"(0.47%)"}
-{"#":453,"Company":"Globe Life Inc.","Symbol":"GL","Portfolio%":"0.03%","Price":126.33,"Chg":0.03,"% Chg":"(0.03%)"}
-{"#":454,"Company":"Nisource Inc.","Symbol":"NI","Portfolio%":"0.02%","Price":26.46,"Chg":-0.15,"% Chg":"(-0.57%)"}
-{"#":455,"Company":"Teleflex Incorporated","Symbol":"TFX","Portfolio%":"0.02%","Price":251.0,"Chg":26.0,"% Chg":"(11.56%)"}
-{"#":456,"Company":"Dayforce, Inc.","Symbol":"DAY","Portfolio%":"0.02%","Price":53.78,"Chg":-12.83,"% Chg":"(-19.26%)"}
-{"#":457,"Company":"Universal Health Services, Inc. Class B","Symbol":"UHS","Portfolio%":"0.02%","Price":149.8,"Chg":-24.8,"% Chg":"(-14.20%)"}
-{"#":458,"Company":"Bath & Body Works, Inc.","Symbol":"BBWI","Portfolio%":"0.02%","Price":45.47,"Chg":-0.18,"% Chg":"(-0.40%)"}
-{"#":459,"Company":"Aes Corporation","Symbol":"AES","Portfolio%":"0.02%","Price":16.35,"Chg":0.28,"% Chg":"(1.74%)"}
-{"#":460,"Company":"Catalent, Inc.","Symbol":"CTLT","Portfolio%":"0.02%","Price":57.37,"Chg":0.42,"% Chg":"(0.74%)"}
-{"#":461,"Company":"Eastman Chemical Company","Symbol":"EMN","Portfolio%":"0.02%","Price":87.15,"Chg":-1.06,"% Chg":"(-1.21%)"}
-{"#":462,"Company":"The Mosaic Company","Symbol":"MOS","Portfolio%":"0.02%","Price":31.27,"Chg":-0.02,"% Chg":"(-0.08%)"}
-{"#":463,"Company":"A.O. Smith Corporation","Symbol":"AOS","Portfolio%":"0.02%","Price":79.6,"Chg":-5.5,"% Chg":"(-6.47%)"}
-{"#":464,"Company":"Camden Property Trust","Symbol":"CPT","Portfolio%":"0.02%","Price":97.27,"Chg":0.53,"% Chg":"(0.55%)"}
-{"#":465,"Company":"American Airlines Group Inc.","Symbol":"AAL","Portfolio%":"0.02%","Price":14.65,"Chg":-0.17,"% Chg":"(-1.11%)"}
-{"#":466,"Company":"Regency Centers Corporation","Symbol":"REG","Portfolio%":"0.02%","Price":62.04,"Chg":-0.86,"% Chg":"(-1.37%)"}
-{"#":467,"Company":"Henry Schein Inc","Symbol":"HSIC","Portfolio%":"0.02%","Price":79.12,"Chg":2.32,"% Chg":"(3.03%)"}
-{"#":468,"Company":"News Corporation Class A","Symbol":"NWSA","Portfolio%":"0.02%","Price":24.9,"Chg":-1.03,"% Chg":"(-3.97%)"}
-{"#":469,"Company":"Match Group, Inc","Symbol":"MTCH","Portfolio%":"0.02%","Price":34.68,"Chg":-0.39,"% Chg":"(-1.10%)"}
-{"#":470,"Company":"Wynn Resorts Ltd","Symbol":"WYNN","Portfolio%":"0.02%","Price":100.01,"Chg":0.27,"% Chg":"(0.28%)"}
-{"#":471,"Company":"Hormel Foods Corporation","Symbol":"HRL","Portfolio%":"0.02%","Price":33.8,"Chg":0.03,"% Chg":"(0.09%)"}
-{"#":472,"Company":"Assurant, Inc.","Symbol":"AIZ","Portfolio%":"0.02%","Price":178.65,"Chg":0.62,"% Chg":"(0.35%)"}
-{"#":473,"Company":"Apa Corporation","Symbol":"APA","Portfolio%":"0.02%","Price":30.43,"Chg":0.4,"% Chg":"(1.33%)"}
-{"#":474,"Company":"Boston Properties, Inc.","Symbol":"BXP","Portfolio%":"0.02%","Price":65.53,"Chg":-0.28,"% Chg":"(-0.43%)"}
-{"#":475,"Company":"Caesars Entertainment, Inc.","Symbol":"CZR","Portfolio%":"0.02%","Price":41.29,"Chg":-0.28,"% Chg":"(-0.68%)"}
-{"#":476,"Company":"Paycom Software, Inc.","Symbol":"PAYC","Portfolio%":"0.02%","Price":176.21,"Chg":-1.84,"% Chg":"(-1.03%)"}
-{"#":477,"Company":"C.H. Robinson Worldwide, Inc.","Symbol":"CHRW","Portfolio%":"0.02%","Price":69.67,"Chg":-0.78,"% Chg":"(-1.11%)"}
-{"#":478,"Company":"Robert Half Inc.","Symbol":"RHI","Portfolio%":"0.02%","Price":78.51,"Chg":-3.23,"% Chg":"(-3.96%)"}
-{"#":479,"Company":"Campbell Soup Company","Symbol":"CPB","Portfolio%":"0.02%","Price":43.9,"Chg":0.62,"% Chg":"(1.42%)"}
-{"#":480,"Company":"Etsy, Inc.","Symbol":"ETSY","Portfolio%":"0.02%","Price":68.52,"Chg":0.81,"% Chg":"(1.20%)"}
-{"#":481,"Company":"Marketaxess Holdings Inc.","Symbol":"MKTX","Portfolio%":"0.02%","Price":229.35,"Chg":14.58,"% Chg":"(6.79%)"}
-{"#":482,"Company":"Norwegian Cruise Line Holdings Ltd.s","Symbol":"NCLH","Portfolio%":"0.02%","Price":19.69,"Chg":0.26,"% Chg":"(1.36%)"}
-{"#":483,"Company":"Franklin Resources, Inc.","Symbol":"BEN","Portfolio%":"0.02%","Price":27.32,"Chg":-0.41,"% Chg":"(-1.48%)"}
-{"#":484,"Company":"Pinnacle West Capital Corporation","Symbol":"PNW","Portfolio%":"0.02%","Price":68.16,"Chg":-0.73,"% Chg":"(-1.06%)"}
-{"#":485,"Company":"Ralph Lauren Corporation","Symbol":"RL","Portfolio%":"0.02%","Price":180.13,"Chg":1.95,"% Chg":"(1.09%)"}
-{"#":486,"Company":"Borgwarner Inc.","Symbol":"BWA","Portfolio%":"0.02%","Price":31.38,"Chg":0.55,"% Chg":"(1.78%)"}
-{"#":487,"Company":"Federal Realty Investment Trust","Symbol":"FRT","Portfolio%":"0.02%","Price":101.75,"Chg":0.05,"% Chg":"(0.05%)"}
-{"#":488,"Company":"Fox Corporation Class A","Symbol":"FOXA","Portfolio%":"0.02%","Price":28.83,"Chg":-0.21,"% Chg":"(-0.74%)"}
-{"#":489,"Company":"Fmc Corporation","Symbol":"FMC","Portfolio%":"0.02%","Price":59.49,"Chg":0.69,"% Chg":"(1.17%)"}
-{"#":490,"Company":"Dentsply Sirona Inc.","Symbol":"XRAY","Portfolio%":"0.02%","Price":33.33,"Chg":0.05,"% Chg":"(0.16%)"}
-{"#":491,"Company":"Generac Holdings Inc","Symbol":"GNRC","Portfolio%":"0.02%","Price":110.79,"Chg":-2.43,"% Chg":"(-2.15%)"}
-{"#":492,"Company":"Invesco Ltd","Symbol":"IVZ","Portfolio%":"0.02%","Price":15.7,"Chg":0.07,"% Chg":"(0.45%)"}
-{"#":493,"Company":"Bio-Rad Laboratories, Inc.Class A","Symbol":"BIO","Portfolio%":"0.02%","Price":542.09,"Chg":207.42,"% Chg":"(61.98%)"}
-{"#":494,"Company":"Davita Inc.","Symbol":"DVA","Portfolio%":"0.02%","Price":134.67,"Chg":8.94,"% Chg":"(7.11%)"}
-{"#":495,"Company":"Comerica Incorporated","Symbol":"CMA","Portfolio%":"0.02%","Price":52.0,"Chg":2.14,"% Chg":"(4.28%)"}
-{"#":496,"Company":"Hasbro, Inc.","Symbol":"HAS","Portfolio%":"0.01%","Price":50.71,"Chg":0.34,"% Chg":"(0.68%)"}
-{"#":497,"Company":"Mohawk Industries, Inc.","Symbol":"MHK","Portfolio%":"0.01%","Price":122.71,"Chg":1.88,"% Chg":"(1.55%)"}
-{"#":498,"Company":"Whirlpool Corp.","Symbol":"WHR","Portfolio%":"0.01%","Price":103.29,"Chg":-3.26,"% Chg":"(-3.06%)"}
-{"#":499,"Company":"Zions Bancorporation N.a.","Symbol":"ZION","Portfolio%":"0.01%","Price":40.25,"Chg":1.08,"% Chg":"(2.76%)"}
-{"#":500,"Company":"V.F. Corporation","Symbol":"VFC","Portfolio%":"0.01%","Price":15.73,"Chg":-0.01,"% Chg":"(-0.03%)"}
-{"#":501,"Company":"Paramount Global Class B","Symbol":"PARA","Portfolio%":"0.01%","Price":10.21,"Chg":-0.1,"% Chg":"(-0.92%)"}
-{"#":502,"Company":"Fox Corporation Class B","Symbol":"FOX","Portfolio%":"0.01%","Price":26.33,"Chg":-0.24,"% Chg":"(-0.89%)"}
-{"#":503,"Company":"News Corporation Class B","Symbol":"NWS","Portfolio%":"0.01%","Price":26.93,"Chg":-0.11,"% Chg":"(-0.39%)"}
+{"#":1,"Company":"Microsoft Corp","Symbol":"MSFT","Portfolio%":"7.14%","Price":401.08,"Chg":-1.57,"% Chg":"(-0.39%)"}
+{"#":2,"Company":"Apple Inc.","Symbol":"AAPL","Portfolio%":"5.93%","Price":168.64,"Chg":-1.48,"% Chg":"(-0.87%)"}
+{"#":3,"Company":"Nvidia Corp","Symbol":"NVDA","Portfolio%":"4.88%","Price":886.61,"Chg":26.97,"% Chg":"(3.14%)"}
+{"#":4,"Company":"Amazon.com Inc","Symbol":"AMZN","Portfolio%":"3.74%","Price":173.26,"Chg":-0.87,"% Chg":"(-0.50%)"}
+{"#":5,"Company":"Meta Platforms, Inc. Class A","Symbol":"META","Portfolio%":"2.56%","Price":495.35,"Chg":5.13,"% Chg":"(1.05%)"}
+{"#":6,"Company":"Alphabet Inc. Class A","Symbol":"GOOGL","Portfolio%":"1.83%","Price":131.16,"Chg":-1.51,"% Chg":"(-1.14%)"}
+{"#":7,"Company":"Berkshire Hathaway Class B","Symbol":"BRK.B","Portfolio%":"1.70%","Price":403.74,"Chg":3.0,"% Chg":"(0.75%)"}
+{"#":8,"Company":"Alphabet Inc. Class C","Symbol":"GOOG","Portfolio%":"1.55%","Price":132.22,"Chg":-1.56,"% Chg":"(-1.16%)"}
+{"#":9,"Company":"Eli Lilly & Co.","Symbol":"LLY","Portfolio%":"1.46%","Price":777.4,"Chg":-0.19,"% Chg":"(-0.02%)"}
+{"#":10,"Company":"Broadcom Inc.","Symbol":"AVGO","Portfolio%":"1.43%","Price":1352.19,"Chg":9.44,"% Chg":"(0.70%)"}
+{"#":11,"Company":"Jpmorgan Chase & Co.","Symbol":"JPM","Portfolio%":"1.25%","Price":189.03,"Chg":0.47,"% Chg":"(0.25%)"}
+{"#":12,"Company":"Tesla, Inc.","Symbol":"TSLA","Portfolio%":"1.20%","Price":175.06,"Chg":-5.68,"% Chg":"(-3.14%)"}
+{"#":13,"Company":"Visa Inc.","Symbol":"V","Portfolio%":"1.04%","Price":278.98,"Chg":-0.4,"% Chg":"(-0.14%)"}
+{"#":14,"Company":"Unitedhealth Group Incorporated","Symbol":"UNH","Portfolio%":"1.03%","Price":471.16,"Chg":-2.0,"% Chg":"(-0.42%)"}
+{"#":15,"Company":"Exxon Mobil Corporation","Symbol":"XOM","Portfolio%":"0.97%","Price":107.28,"Chg":1.64,"% Chg":"(1.55%)"}
+{"#":16,"Company":"Mastercard Incorporated","Symbol":"MA","Portfolio%":"0.90%","Price":471.0,"Chg":3.48,"% Chg":"(0.74%)"}
+{"#":17,"Company":"Johnson & Johnson","Symbol":"JNJ","Portfolio%":"0.89%","Price":159.27,"Chg":-0.7,"% Chg":"(-0.44%)"}
+{"#":18,"Company":"Home Depot, Inc.","Symbol":"HD","Portfolio%":"0.88%","Price":376.98,"Chg":-1.47,"% Chg":"(-0.39%)"}
+{"#":19,"Company":"Procter & Gamble Company","Symbol":"PG","Portfolio%":"0.87%","Price":159.23,"Chg":-0.09,"% Chg":"(-0.06%)"}
+{"#":20,"Company":"Costco Wholesale Corp","Symbol":"COST","Portfolio%":"0.78%","Price":774.24,"Chg":14.29,"% Chg":"(1.88%)"}
+{"#":21,"Company":"Advanced Micro Devices","Symbol":"AMD","Portfolio%":"0.77%","Price":209.4,"Chg":4.27,"% Chg":"(2.08%)"}
+{"#":22,"Company":"Merck & Co., Inc.","Symbol":"MRK","Portfolio%":"0.73%","Price":123.05,"Chg":0.22,"% Chg":"(0.18%)"}
+{"#":23,"Company":"Abbvie Inc.","Symbol":"ABBV","Portfolio%":"0.72%","Price":181.0,"Chg":1.84,"% Chg":"(1.03%)"}
+{"#":24,"Company":"Salesforce, Inc.","Symbol":"CRM","Portfolio%":"0.71%","Price":303.59,"Chg":4.84,"% Chg":"(1.62%)"}
+{"#":25,"Company":"Netflix Inc","Symbol":"NFLX","Portfolio%":"0.62%","Price":595.12,"Chg":-3.38,"% Chg":"(-0.56%)"}
+{"#":26,"Company":"Chevron Corporation","Symbol":"CVX","Portfolio%":"0.61%","Price":148.3,"Chg":-1.3,"% Chg":"(-0.87%)"}
+{"#":27,"Company":"Adobe Inc.","Symbol":"ADBE","Portfolio%":"0.60%","Price":541.0,"Chg":-3.85,"% Chg":"(-0.71%)"}
+{"#":28,"Company":"Walmart Inc.","Symbol":"WMT","Portfolio%":"0.59%","Price":60.59,"Chg":0.55,"% Chg":"(0.92%)"}
+{"#":29,"Company":"Bank of America Corporation","Symbol":"BAC","Portfolio%":"0.56%","Price":35.38,"Chg":-0.01,"% Chg":"(-0.02%)"}
+{"#":30,"Company":"Accenture Plc","Symbol":"ACN","Portfolio%":"0.56%","Price":379.08,"Chg":2.2,"% Chg":"(0.58%)"}
+{"#":31,"Company":"Coca-Cola Company","Symbol":"KO","Portfolio%":"0.54%","Price":59.56,"Chg":0.03,"% Chg":"(0.06%)"}
+{"#":32,"Company":"Pepsico, Inc.","Symbol":"PEP","Portfolio%":"0.53%","Price":162.88,"Chg":0.84,"% Chg":"(0.52%)"}
+{"#":33,"Company":"Thermo Fisher Scientific, Inc.","Symbol":"TMO","Portfolio%":"0.52%","Price":587.31,"Chg":2.69,"% Chg":"(0.46%)"}
+{"#":34,"Company":"Linde Plc","Symbol":"LIN","Portfolio%":"0.51%","Price":463.7,"Chg":2.74,"% Chg":"(0.59%)"}
+{"#":35,"Company":"Mcdonald's Corporation","Symbol":"MCD","Portfolio%":"0.49%","Price":293.03,"Chg":0.49,"% Chg":"(0.17%)"}
+{"#":36,"Company":"Abbott Laboratories","Symbol":"ABT","Portfolio%":"0.48%","Price":119.15,"Chg":0.67,"% Chg":"(0.57%)"}
+{"#":37,"Company":"The Walt Disney Company","Symbol":"DIS","Portfolio%":"0.48%","Price":109.9,"Chg":-2.97,"% Chg":"(-2.63%)"}
+{"#":38,"Company":"Wells Fargo & Co.","Symbol":"WFC","Portfolio%":"0.47%","Price":57.02,"Chg":0.41,"% Chg":"(0.73%)"}
+{"#":39,"Company":"Cisco Systems, Inc.","Symbol":"CSCO","Portfolio%":"0.46%","Price":48.83,"Chg":-0.13,"% Chg":"(-0.26%)"}
+{"#":40,"Company":"Intel Corp","Symbol":"INTC","Portfolio%":"0.45%","Price":44.46,"Chg":1.3,"% Chg":"(3.00%)"}
+{"#":41,"Company":"Intuit Inc","Symbol":"INTU","Portfolio%":"0.43%","Price":647.58,"Chg":7.85,"% Chg":"(1.23%)"}
+{"#":42,"Company":"Qualcomm Inc","Symbol":"QCOM","Portfolio%":"0.43%","Price":167.55,"Chg":6.09,"% Chg":"(3.78%)"}
+{"#":43,"Company":"Oracle Corp","Symbol":"ORCL","Portfolio%":"0.42%","Price":112.14,"Chg":1.2,"% Chg":"(1.08%)"}
+{"#":44,"Company":"International Business Machines Corporation","Symbol":"IBM","Portfolio%":"0.41%","Price":196.13,"Chg":4.18,"% Chg":"(2.18%)"}
+{"#":45,"Company":"Applied Materials Inc","Symbol":"AMAT","Portfolio%":"0.41%","Price":212.11,"Chg":4.72,"% Chg":"(2.28%)"}
+{"#":46,"Company":"General Electric Company","Symbol":"GE","Portfolio%":"0.41%","Price":159.3,"Chg":1.44,"% Chg":"(0.91%)"}
+{"#":47,"Company":"Caterpillar Inc.","Symbol":"CAT","Portfolio%":"0.40%","Price":335.07,"Chg":1.54,"% Chg":"(0.46%)"}
+{"#":48,"Company":"Verizon Communications","Symbol":"VZ","Portfolio%":"0.39%","Price":39.92,"Chg":-0.44,"% Chg":"(-1.08%)"}
+{"#":49,"Company":"Danaher Corporation","Symbol":"DHR","Portfolio%":"0.39%","Price":252.69,"Chg":-1.7,"% Chg":"(-0.67%)"}
+{"#":50,"Company":"Comcast Corp","Symbol":"CMCSA","Portfolio%":"0.39%","Price":42.02,"Chg":-0.05,"% Chg":"(-0.11%)"}
+{"#":51,"Company":"Uber Technologies, Inc.","Symbol":"UBER","Portfolio%":"0.39%","Price":78.62,"Chg":-0.47,"% Chg":"(-0.59%)"}
+{"#":52,"Company":"Servicenow, Inc.","Symbol":"NOW","Portfolio%":"0.37%","Price":738.68,"Chg":-1.47,"% Chg":"(-0.20%)"}
+{"#":53,"Company":"Texas Instruments Incorporated","Symbol":"TXN","Portfolio%":"0.36%","Price":168.71,"Chg":-1.93,"% Chg":"(-1.13%)"}
+{"#":54,"Company":"Union Pacific Corp.","Symbol":"UNP","Portfolio%":"0.36%","Price":250.81,"Chg":-2.89,"% Chg":"(-1.14%)"}
+{"#":55,"Company":"Amgen Inc","Symbol":"AMGN","Portfolio%":"0.35%","Price":275.73,"Chg":-0.92,"% Chg":"(-0.33%)"}
+{"#":56,"Company":"Pfizer Inc.","Symbol":"PFE","Portfolio%":"0.34%","Price":27.21,"Chg":1.13,"% Chg":"(4.31%)"}
+{"#":57,"Company":"Intuitive Surgical Inc.","Symbol":"ISRG","Portfolio%":"0.33%","Price":388.75,"Chg":1.43,"% Chg":"(0.37%)"}
+{"#":58,"Company":"Philip Morris International Inc.","Symbol":"PM","Portfolio%":"0.32%","Price":90.95,"Chg":0.38,"% Chg":"(0.42%)"}
+{"#":59,"Company":"Lowe's Companies Inc.","Symbol":"LOW","Portfolio%":"0.32%","Price":240.25,"Chg":-0.57,"% Chg":"(-0.24%)"}
+{"#":60,"Company":"S&p Global Inc.","Symbol":"SPGI","Portfolio%":"0.32%","Price":425.0,"Chg":2.69,"% Chg":"(0.64%)"}
+{"#":61,"Company":"Conocophillips","Symbol":"COP","Portfolio%":"0.31%","Price":111.81,"Chg":0.59,"% Chg":"(0.53%)"}
+{"#":62,"Company":"Honeywell International, Inc.","Symbol":"HON","Portfolio%":"0.30%","Price":198.73,"Chg":1.38,"% Chg":"(0.70%)"}
+{"#":63,"Company":"Rtx Corporation","Symbol":"RTX","Portfolio%":"0.30%","Price":90.17,"Chg":0.11,"% Chg":"(0.12%)"}
+{"#":64,"Company":"Lam Research Corp","Symbol":"LRCX","Portfolio%":"0.30%","Price":971.27,"Chg":8.17,"% Chg":"(0.85%)"}
+{"#":65,"Company":"Goldman Sachs Group Inc.","Symbol":"GS","Portfolio%":"0.30%","Price":389.29,"Chg":-1.62,"% Chg":"(-0.41%)"}
+{"#":66,"Company":"American Express Company","Symbol":"AXP","Portfolio%":"0.29%","Price":218.02,"Chg":0.81,"% Chg":"(0.38%)"}
+{"#":67,"Company":"Prologis, Inc.","Symbol":"PLD","Portfolio%":"0.29%","Price":133.1,"Chg":0.66,"% Chg":"(0.50%)"}
+{"#":68,"Company":"Nike, Inc.","Symbol":"NKE","Portfolio%":"0.28%","Price":97.65,"Chg":-0.66,"% Chg":"(-0.67%)"}
+{"#":69,"Company":"Booking Holdings Inc.","Symbol":"BKNG","Portfolio%":"0.28%","Price":3380.52,"Chg":-49.74,"% Chg":"(-1.45%)"}
+{"#":70,"Company":"Stryker Corporation","Symbol":"SYK","Portfolio%":"0.28%","Price":354.48,"Chg":2.09,"% Chg":"(0.59%)"}
+{"#":71,"Company":"At&t Inc.","Symbol":"T","Portfolio%":"0.28%","Price":17.16,"Chg":-0.01,"% Chg":"(-0.06%)"}
+{"#":72,"Company":"Elevance Health, Inc.","Symbol":"ELV","Portfolio%":"0.27%","Price":505.84,"Chg":7.49,"% Chg":"(1.50%)"}
+{"#":73,"Company":"Eaton Corporation, Plcs","Symbol":"ETN","Portfolio%":"0.27%","Price":295.5,"Chg":3.57,"% Chg":"(1.22%)"}
+{"#":74,"Company":"Blackrock, Inc.","Symbol":"BLK","Portfolio%":"0.27%","Price":824.15,"Chg":-2.79,"% Chg":"(-0.34%)"}
+{"#":75,"Company":"Boeing Company","Symbol":"BA","Portfolio%":"0.26%","Price":200.56,"Chg":-0.58,"% Chg":"(-0.29%)"}
+{"#":76,"Company":"Morgan Stanley","Symbol":"MS","Portfolio%":"0.26%","Price":85.17,"Chg":-3.96,"% Chg":"(-4.44%)"}
+{"#":77,"Company":"Medtronic Plc","Symbol":"MDT","Portfolio%":"0.26%","Price":85.43,"Chg":0.83,"% Chg":"(0.98%)"}
+{"#":78,"Company":"Nextra Energy, Inc.","Symbol":"NEE","Portfolio%":"0.26%","Price":55.62,"Chg":0.22,"% Chg":"(0.39%)"}
+{"#":79,"Company":"Tjx Companies, Inc.","Symbol":"TJX","Portfolio%":"0.26%","Price":96.22,"Chg":-1.17,"% Chg":"(-1.21%)"}
+{"#":80,"Company":"Progressive Corporation","Symbol":"PGR","Portfolio%":"0.26%","Price":195.65,"Chg":5.84,"% Chg":"(3.07%)"}
+{"#":81,"Company":"Vertex Pharmaceuticals Inc","Symbol":"VRTX","Portfolio%":"0.25%","Price":412.96,"Chg":-2.49,"% Chg":"(-0.60%)"}
+{"#":82,"Company":"United Parcel Service, Inc. Class B","Symbol":"UPS","Portfolio%":"0.25%","Price":152.43,"Chg":2.77,"% Chg":"(1.85%)"}
+{"#":83,"Company":"Citigroup Inc.","Symbol":"C","Portfolio%":"0.25%","Price":57.28,"Chg":1.02,"% Chg":"(1.81%)"}
+{"#":84,"Company":"Starbucks Corp","Symbol":"SBUX","Portfolio%":"0.24%","Price":91.5,"Chg":0.28,"% Chg":"(0.31%)"}
+{"#":85,"Company":"Micron Technology, Inc.","Symbol":"MU","Portfolio%":"0.24%","Price":95.65,"Chg":1.18,"% Chg":"(1.25%)"}
+{"#":86,"Company":"Regeneron Pharmaceuticals Inc","Symbol":"REGN","Portfolio%":"0.24%","Price":972.33,"Chg":7.12,"% Chg":"(0.74%)"}
+{"#":87,"Company":"Bristol-Myers Squibb Co.","Symbol":"BMY","Portfolio%":"0.24%","Price":53.3,"Chg":1.48,"% Chg":"(2.85%)"}
+{"#":88,"Company":"Chubb Limited","Symbol":"CB","Portfolio%":"0.23%","Price":250.28,"Chg":0.92,"% Chg":"(0.37%)"}
+{"#":89,"Company":"Automatic Data Processing","Symbol":"ADP","Portfolio%":"0.23%","Price":243.39,"Chg":-0.61,"% Chg":"(-0.25%)"}
+{"#":90,"Company":"The Charles Schwab Corporation","Symbol":"SCHW","Portfolio%":"0.23%","Price":68.19,"Chg":0.09,"% Chg":"(0.13%)"}
+{"#":91,"Company":"Marsh & Mclennan Companies, Inc.","Symbol":"MMC","Portfolio%":"0.23%","Price":202.57,"Chg":0.67,"% Chg":"(0.33%)"}
+{"#":92,"Company":"Boston Scientific Corp.","Symbol":"BSX","Portfolio%":"0.23%","Price":67.15,"Chg":0.13,"% Chg":"(0.20%)"}
+{"#":93,"Company":"The Cigna Group","Symbol":"CI","Portfolio%":"0.23%","Price":339.13,"Chg":6.4,"% Chg":"(1.92%)"}
+{"#":94,"Company":"Deere & Company","Symbol":"DE","Portfolio%":"0.23%","Price":365.93,"Chg":-0.8,"% Chg":"(-0.22%)"}
+{"#":95,"Company":"Kla Corporation","Symbol":"KLAC","Portfolio%":"0.23%","Price":705.02,"Chg":-0.85,"% Chg":"(-0.12%)"}
+{"#":96,"Company":"Mondelez International, Inc. Class A","Symbol":"MDLZ","Portfolio%":"0.23%","Price":70.7,"Chg":-0.14,"% Chg":"(-0.20%)"}
+{"#":97,"Company":"Analog Devices, Inc.","Symbol":"ADI","Portfolio%":"0.22%","Price":186.54,"Chg":-3.26,"% Chg":"(-1.72%)"}
+{"#":98,"Company":"American Tower Corporation","Symbol":"AMT","Portfolio%":"0.22%","Price":206.0,"Chg":0.58,"% Chg":"(0.28%)"}
+{"#":99,"Company":"Lockheed Martin Corp.","Symbol":"LMT","Portfolio%":"0.22%","Price":432.01,"Chg":0.02,"% Chg":"(0.01%)"}
+{"#":100,"Company":"Cvs Health Corporation","Symbol":"CVS","Portfolio%":"0.22%","Price":74.16,"Chg":0.45,"% Chg":"(0.61%)"}
+{"#":101,"Company":"Palo Alto Networks, Inc.","Symbol":"PANW","Portfolio%":"0.22%","Price":277.31,"Chg":-13.82,"% Chg":"(-4.75%)"}
+{"#":102,"Company":"Synopsys Inc","Symbol":"SNPS","Portfolio%":"0.21%","Price":569.19,"Chg":3.93,"% Chg":"(0.70%)"}
+{"#":103,"Company":"Gilead Sciences Inc","Symbol":"GILD","Portfolio%":"0.21%","Price":72.81,"Chg":-0.18,"% Chg":"(-0.25%)"}
+{"#":104,"Company":"Fiserv, Inc.","Symbol":"FI","Portfolio%":"0.21%","Price":150.45,"Chg":0.5,"% Chg":"(0.33%)"}
+{"#":105,"Company":"Blackstone Inc.","Symbol":"BX","Portfolio%":"0.21%","Price":123.38,"Chg":-1.44,"% Chg":"(-1.16%)"}
+{"#":106,"Company":"Cadence Design Systems","Symbol":"CDNS","Portfolio%":"0.20%","Price":310.31,"Chg":2.61,"% Chg":"(0.85%)"}
+{"#":107,"Company":"Zoetis Inc.","Symbol":"ZTS","Portfolio%":"0.20%","Price":183.29,"Chg":-1.94,"% Chg":"(-1.05%)"}
+{"#":108,"Company":"Equinix, Inc. Reit","Symbol":"EQIX","Portfolio%":"0.20%","Price":904.56,"Chg":9.0,"% Chg":"(1.01%)"}
+{"#":109,"Company":"T-Mobile Us, Inc.","Symbol":"TMUS","Portfolio%":"0.19%","Price":166.77,"Chg":0.87,"% Chg":"(0.52%)"}
+{"#":110,"Company":"Cme Group Inc.","Symbol":"CME","Portfolio%":"0.18%","Price":219.7,"Chg":-0.21,"% Chg":"(-0.09%)"}
+{"#":111,"Company":"The Sherwin-Williams Company","Symbol":"SHW","Portfolio%":"0.18%","Price":335.0,"Chg":1.72,"% Chg":"(0.52%)"}
+{"#":112,"Company":"Intercontinental Exchange Inc.","Symbol":"ICE","Portfolio%":"0.18%","Price":137.7,"Chg":-1.72,"% Chg":"(-1.24%)"}
+{"#":113,"Company":"Csx Corporation","Symbol":"CSX","Portfolio%":"0.18%","Price":37.93,"Chg":-0.32,"% Chg":"(-0.84%)"}
+{"#":114,"Company":"Waste Management, Inc.","Symbol":"WM","Portfolio%":"0.18%","Price":207.4,"Chg":0.53,"% Chg":"(0.26%)"}
+{"#":115,"Company":"Chipotle Mexican Grill, Inc.","Symbol":"CMG","Portfolio%":"0.17%","Price":2688.0,"Chg":-23.33,"% Chg":"(-0.86%)"}
+{"#":116,"Company":"The Southern Company","Symbol":"SO","Portfolio%":"0.17%","Price":68.4,"Chg":0.42,"% Chg":"(0.62%)"}
+{"#":117,"Company":"Arista Networks","Symbol":"ANET","Portfolio%":"0.17%","Price":282.98,"Chg":2.51,"% Chg":"(0.89%)"}
+{"#":118,"Company":"Colgate-Palmolive Company","Symbol":"CL","Portfolio%":"0.17%","Price":86.98,"Chg":0.25,"% Chg":"(0.29%)"}
+{"#":119,"Company":"Duke Energy Corporation","Symbol":"DUK","Portfolio%":"0.16%","Price":93.08,"Chg":0.39,"% Chg":"(0.42%)"}
+{"#":120,"Company":"Mckesson Corporation","Symbol":"MCK","Portfolio%":"0.16%","Price":520.5,"Chg":-8.33,"% Chg":"(-1.58%)"}
+{"#":121,"Company":"Illinois Tool Works Inc.","Symbol":"ITW","Portfolio%":"0.16%","Price":259.88,"Chg":2.0,"% Chg":"(0.78%)"}
+{"#":122,"Company":"Schlumberger Limited","Symbol":"SLB","Portfolio%":"0.16%","Price":50.05,"Chg":0.39,"% Chg":"(0.79%)"}
+{"#":123,"Company":"Altria Group, Inc.","Symbol":"MO","Portfolio%":"0.16%","Price":41.45,"Chg":1.51,"% Chg":"(3.78%)"}
+{"#":124,"Company":"Target Corporation","Symbol":"TGT","Portfolio%":"0.16%","Price":173.49,"Chg":4.91,"% Chg":"(2.91%)"}
+{"#":125,"Company":"Parker-Hannifin Corporation","Symbol":"PH","Portfolio%":"0.16%","Price":536.18,"Chg":8.18,"% Chg":"(1.55%)"}
+{"#":126,"Company":"Airbnb, Inc. Class A","Symbol":"ABNB","Portfolio%":"0.16%","Price":163.55,"Chg":4.22,"% Chg":"(2.65%)"}
+{"#":127,"Company":"Becton, Dickinson and Co.","Symbol":"BDX","Portfolio%":"0.16%","Price":234.36,"Chg":0.91,"% Chg":"(0.39%)"}
+{"#":128,"Company":"Eog Resources, Inc.","Symbol":"EOG","Portfolio%":"0.16%","Price":115.3,"Chg":-0.9,"% Chg":"(-0.78%)"}
+{"#":129,"Company":"Amphenol Corporation","Symbol":"APH","Portfolio%":"0.15%","Price":116.77,"Chg":7.13,"% Chg":"(6.50%)"}
+{"#":130,"Company":"U.S. Bancorp","Symbol":"USB","Portfolio%":"0.15%","Price":42.9,"Chg":-0.35,"% Chg":"(-0.82%)"}
+{"#":131,"Company":"Marathon Petroleum Corporation","Symbol":"MPC","Portfolio%":"0.15%","Price":177.47,"Chg":2.3,"% Chg":"(1.32%)"}
+{"#":132,"Company":"Trane Technologies Plc","Symbol":"TT","Portfolio%":"0.15%","Price":279.26,"Chg":-4.8,"% Chg":"(-1.69%)"}
+{"#":133,"Company":"Nxp Semiconductors N.v.","Symbol":"NXPI","Portfolio%":"0.15%","Price":248.76,"Chg":0.29,"% Chg":"(0.12%)"}
+{"#":134,"Company":"Northrop Grumman Corp.","Symbol":"NOC","Portfolio%":"0.15%","Price":460.0,"Chg":1.74,"% Chg":"(0.38%)"}
+{"#":135,"Company":"Transdigm Group Incorporated","Symbol":"TDG","Portfolio%":"0.15%","Price":1169.05,"Chg":9.05,"% Chg":"(0.78%)"}
+{"#":136,"Company":"Paypal Holdings, Inc.","Symbol":"PYPL","Portfolio%":"0.15%","Price":58.05,"Chg":-0.23,"% Chg":"(-0.39%)"}
+{"#":137,"Company":"O'reilly Automotive, Inc.","Symbol":"ORLY","Portfolio%":"0.15%","Price":1080.95,"Chg":1.28,"% Chg":"(0.12%)"}
+{"#":138,"Company":"Phillips 66","Symbol":"PSX","Portfolio%":"0.15%","Price":147.95,"Chg":1.85,"% Chg":"(1.27%)"}
+{"#":139,"Company":"Aon Plc Class A","Symbol":"AON","Portfolio%":"0.15%","Price":313.7,"Chg":-1.5,"% Chg":"(-0.48%)"}
+{"#":140,"Company":"Emerson Electric Co.","Symbol":"EMR","Portfolio%":"0.14%","Price":109.74,"Chg":0.72,"% Chg":"(0.66%)"}
+{"#":141,"Company":"Hca Healthcare, Inc.","Symbol":"HCA","Portfolio%":"0.14%","Price":323.29,"Chg":7.75,"% Chg":"(2.46%)"}
+{"#":142,"Company":"General Dynamics Corporation","Symbol":"GD","Portfolio%":"0.14%","Price":270.91,"Chg":-2.69,"% Chg":"(-0.98%)"}
+{"#":143,"Company":"Pnc Financial Services Group","Symbol":"PNC","Portfolio%":"0.14%","Price":148.57,"Chg":-6.55,"% Chg":"(-4.22%)"}
+{"#":144,"Company":"Marriot International Class A","Symbol":"MAR","Portfolio%":"0.14%","Price":246.55,"Chg":-1.33,"% Chg":"(-0.54%)"}
+{"#":145,"Company":"Moody's Corporation","Symbol":"MCO","Portfolio%":"0.14%","Price":388.47,"Chg":5.97,"% Chg":"(1.56%)"}
+{"#":146,"Company":"Paccar Inc","Symbol":"PCAR","Portfolio%":"0.14%","Price":115.21,"Chg":1.13,"% Chg":"(0.99%)"}
+{"#":147,"Company":"Norfolk Southern Corp.","Symbol":"NSC","Portfolio%":"0.14%","Price":254.23,"Chg":-3.13,"% Chg":"(-1.21%)"}
+{"#":148,"Company":"Roper Technologies, Inc.","Symbol":"ROP","Portfolio%":"0.13%","Price":539.14,"Chg":2.13,"% Chg":"(0.40%)"}
+{"#":149,"Company":"Ecolab, Inc.","Symbol":"ECL","Portfolio%":"0.13%","Price":222.14,"Chg":-1.27,"% Chg":"(-0.57%)"}
+{"#":150,"Company":"Fedex Corporation","Symbol":"FDX","Portfolio%":"0.13%","Price":248.33,"Chg":-0.39,"% Chg":"(-0.16%)"}
+{"#":151,"Company":"Constellation Energy Corporation","Symbol":"CEG","Portfolio%":"0.13%","Price":180.3,"Chg":3.53,"% Chg":"(2.00%)"}
+{"#":152,"Company":"General Motors Company","Symbol":"GM","Portfolio%":"0.13%","Price":40.06,"Chg":-0.59,"% Chg":"(-1.46%)"}
+{"#":153,"Company":"Motorola Solutions, Inc.","Symbol":"MSI","Portfolio%":"0.13%","Price":338.12,"Chg":6.31,"% Chg":"(1.90%)"}
+{"#":154,"Company":"Autodesk Inc","Symbol":"ADSK","Portfolio%":"0.13%","Price":249.1,"Chg":1.81,"% Chg":"(0.73%)"}
+{"#":155,"Company":"Freeport-Mcmoran Inc.","Symbol":"FCX","Portfolio%":"0.13%","Price":38.34,"Chg":1.22,"% Chg":"(3.27%)"}
+{"#":156,"Company":"Pioneer Natural Resource Co.","Symbol":"PXD","Portfolio%":"0.13%","Price":238.4,"Chg":1.15,"% Chg":"(0.48%)"}
+{"#":157,"Company":"Cintas Corp","Symbol":"CTAS","Portfolio%":"0.13%","Price":627.83,"Chg":2.44,"% Chg":"(0.39%)"}
+{"#":158,"Company":"Autozone, Inc.","Symbol":"AZO","Portfolio%":"0.13%","Price":3108.12,"Chg":5.26,"% Chg":"(0.17%)"}
+{"#":159,"Company":"Air Products & Chemicals, Inc.","Symbol":"APD","Portfolio%":"0.12%","Price":242.18,"Chg":2.59,"% Chg":"(1.08%)"}
+{"#":160,"Company":"Edwards Lifesciences Corp","Symbol":"EW","Portfolio%":"0.12%","Price":88.74,"Chg":2.64,"% Chg":"(3.07%)"}
+{"#":161,"Company":"Arthur J. Gallagher & Co.","Symbol":"AJG","Portfolio%":"0.12%","Price":247.05,"Chg":1.7,"% Chg":"(0.69%)"}
+{"#":162,"Company":"Lululemon Athletica Inc.","Symbol":"LULU","Portfolio%":"0.12%","Price":446.65,"Chg":0.59,"% Chg":"(0.13%)"}
+{"#":163,"Company":"Hilton Worldwide Holdings Inc.","Symbol":"HLT","Portfolio%":"0.12%","Price":203.32,"Chg":-0.5,"% Chg":"(-0.24%)"}
+{"#":164,"Company":"Capital One Financial","Symbol":"COF","Portfolio%":"0.12%","Price":135.72,"Chg":-1.84,"% Chg":"(-1.34%)"}
+{"#":165,"Company":"Welltower Inc.","Symbol":"WELL","Portfolio%":"0.12%","Price":91.97,"Chg":0.42,"% Chg":"(0.45%)"}
+{"#":166,"Company":"American International Group, Inc.","Symbol":"AIG","Portfolio%":"0.12%","Price":74.13,"Chg":0.2,"% Chg":"(0.28%)"}
+{"#":167,"Company":"Ross Stores Inc","Symbol":"ROST","Portfolio%":"0.12%","Price":147.27,"Chg":-1.9,"% Chg":"(-1.27%)"}
+{"#":168,"Company":"3m Company","Symbol":"MMM","Portfolio%":"0.12%","Price":92.31,"Chg":-0.38,"% Chg":"(-0.41%)"}
+{"#":169,"Company":"Ford Motor Company","Symbol":"F","Portfolio%":"0.12%","Price":12.38,"Chg":-0.21,"% Chg":"(-1.63%)"}
+{"#":170,"Company":"The Travelers Companies, Inc.","Symbol":"TRV","Portfolio%":"0.12%","Price":220.46,"Chg":1.33,"% Chg":"(0.61%)"}
+{"#":171,"Company":"Simon Property Group, Inc.","Symbol":"SPG","Portfolio%":"0.12%","Price":152.35,"Chg":2.49,"% Chg":"(1.66%)"}
+{"#":172,"Company":"Valero Energy Corporation","Symbol":"VLO","Portfolio%":"0.11%","Price":143.98,"Chg":-0.34,"% Chg":"(-0.23%)"}
+{"#":173,"Company":"Crown Castle Inc.","Symbol":"CCI","Portfolio%":"0.11%","Price":112.21,"Chg":0.64,"% Chg":"(0.57%)"}
+{"#":174,"Company":"United Rentals, Inc.","Symbol":"URI","Portfolio%":"0.11%","Price":675.83,"Chg":-3.54,"% Chg":"(-0.52%)"}
+{"#":175,"Company":"Truist Financial Corporation","Symbol":"TFC","Portfolio%":"0.11%","Price":36.99,"Chg":-0.09,"% Chg":"(-0.23%)"}
+{"#":176,"Company":"Carrier Global Corporation","Symbol":"CARR","Portfolio%":"0.11%","Price":57.69,"Chg":1.09,"% Chg":"(1.93%)"}
+{"#":177,"Company":"Idexx Laboratories Inc","Symbol":"IDXX","Portfolio%":"0.11%","Price":545.16,"Chg":-13.17,"% Chg":"(-2.36%)"}
+{"#":178,"Company":"Dexcom, Inc.","Symbol":"DXCM","Portfolio%":"0.11%","Price":137.43,"Chg":15.65,"% Chg":"(12.85%)"}
+{"#":179,"Company":"Copart Inc","Symbol":"CPRT","Portfolio%":"0.11%","Price":54.37,"Chg":0.51,"% Chg":"(0.95%)"}
+{"#":180,"Company":"Microchip Technology Inc","Symbol":"MCHP","Portfolio%":"0.11%","Price":88.66,"Chg":3.02,"% Chg":"(3.52%)"}
+{"#":181,"Company":"Digital Realty Trust, Inc.","Symbol":"DLR","Portfolio%":"0.11%","Price":149.75,"Chg":-0.5,"% Chg":"(-0.33%)"}
+{"#":182,"Company":"Iqvia Holdings Inc.","Symbol":"IQV","Portfolio%":"0.11%","Price":237.45,"Chg":-12.75,"% Chg":"(-5.10%)"}
+{"#":183,"Company":"Nucor Corporation","Symbol":"NUE","Portfolio%":"0.11%","Price":182.59,"Chg":-2.22,"% Chg":"(-1.20%)"}
+{"#":184,"Company":"D.R. Horton Inc.","Symbol":"DHI","Portfolio%":"0.11%","Price":151.66,"Chg":0.54,"% Chg":"(0.36%)"}
+{"#":185,"Company":"Fortinet, Inc.","Symbol":"FTNT","Portfolio%":"0.11%","Price":71.38,"Chg":2.34,"% Chg":"(3.38%)"}
+{"#":186,"Company":"Public Storage","Symbol":"PSA","Portfolio%":"0.10%","Price":280.28,"Chg":0.77,"% Chg":"(0.28%)"}
+{"#":187,"Company":"American Electric Power Company, Inc.","Symbol":"AEP","Portfolio%":"0.10%","Price":84.14,"Chg":0.09,"% Chg":"(0.11%)"}
+{"#":188,"Company":"Oneok, Inc.","Symbol":"OKE","Portfolio%":"0.10%","Price":77.42,"Chg":-0.1,"% Chg":"(-0.12%)"}
+{"#":189,"Company":"Sempra","Symbol":"SRE","Portfolio%":"0.10%","Price":70.62,"Chg":0.41,"% Chg":"(0.58%)"}
+{"#":190,"Company":"Te Connectivity Ltd","Symbol":"TEL","Portfolio%":"0.10%","Price":143.4,"Chg":3.16,"% Chg":"(2.25%)"}
+{"#":191,"Company":"Williams Companies Inc.","Symbol":"WMB","Portfolio%":"0.10%","Price":36.57,"Chg":-0.12,"% Chg":"(-0.34%)"}
+{"#":192,"Company":"Msci, Inc.","Symbol":"MSCI","Portfolio%":"0.10%","Price":565.85,"Chg":15.5,"% Chg":"(2.82%)"}
+{"#":193,"Company":"Realty Income Corporation","Symbol":"O","Portfolio%":"0.10%","Price":52.11,"Chg":-0.14,"% Chg":"(-0.28%)"}
+{"#":194,"Company":"W.W. Grainger, Inc.","Symbol":"GWW","Portfolio%":"0.10%","Price":981.65,"Chg":-4.11,"% Chg":"(-0.42%)"}
+{"#":195,"Company":"Metlife, Inc.","Symbol":"MET","Portfolio%":"0.10%","Price":70.77,"Chg":0.3,"% Chg":"(0.43%)"}
+{"#":196,"Company":"Monster Beverage Corporation","Symbol":"MNST","Portfolio%":"0.10%","Price":57.57,"Chg":-0.32,"% Chg":"(-0.55%)"}
+{"#":197,"Company":"Fastenal Co","Symbol":"FAST","Portfolio%":"0.10%","Price":74.04,"Chg":-0.3,"% Chg":"(-0.40%)"}
+{"#":198,"Company":"Humana Inc.","Symbol":"HUM","Portfolio%":"0.10%","Price":338.89,"Chg":0.97,"% Chg":"(0.29%)"}
+{"#":199,"Company":"Bank of New York Mellon Corporation","Symbol":"BK","Portfolio%":"0.10%","Price":55.54,"Chg":-0.36,"% Chg":"(-0.64%)"}
+{"#":200,"Company":"Aflac Inc.","Symbol":"AFL","Portfolio%":"0.10%","Price":82.04,"Chg":1.21,"% Chg":"(1.50%)"}
+{"#":201,"Company":"Centene Corporation","Symbol":"CNC","Portfolio%":"0.10%","Price":77.01,"Chg":-0.39,"% Chg":"(-0.50%)"}
+{"#":202,"Company":"Agilent Technologies Inc.","Symbol":"A","Portfolio%":"0.10%","Price":143.76,"Chg":-0.59,"% Chg":"(-0.41%)"}
+{"#":203,"Company":"Ametek, Inc.","Symbol":"AME","Portfolio%":"0.10%","Price":180.1,"Chg":0.65,"% Chg":"(0.36%)"}
+{"#":204,"Company":"Kimberly-Clark Corp.","Symbol":"KMB","Portfolio%":"0.10%","Price":124.04,"Chg":0.41,"% Chg":"(0.34%)"}
+{"#":205,"Company":"Ameriprise Financial, Inc.","Symbol":"AMP","Portfolio%":"0.10%","Price":518.09,"Chg":105.5,"% Chg":"(25.57%)"}
+{"#":206,"Company":"Fidelity National Information Services, Inc.","Symbol":"FIS","Portfolio%":"0.10%","Price":69.7,"Chg":-0.05,"% Chg":"(-0.07%)"}
+{"#":207,"Company":"Johnson Controls International Plc","Symbol":"JCI","Portfolio%":"0.10%","Price":60.47,"Chg":0.12,"% Chg":"(0.19%)"}
+{"#":208,"Company":"The Allstate Corporation","Symbol":"ALL","Portfolio%":"0.09%","Price":156.87,"Chg":0.1,"% Chg":"(0.07%)"}
+{"#":209,"Company":"L3harris Technologies, Inc.","Symbol":"LHX","Portfolio%":"0.09%","Price":214.81,"Chg":0.98,"% Chg":"(0.46%)"}
+{"#":210,"Company":"Hess Corporation","Symbol":"HES","Portfolio%":"0.09%","Price":142.77,"Chg":-3.59,"% Chg":"(-2.46%)"}
+{"#":211,"Company":"Lennar Corporation Class A","Symbol":"LEN","Portfolio%":"0.09%","Price":160.97,"Chg":1.41,"% Chg":"(0.88%)"}
+{"#":212,"Company":"Constellation Brands, Inc.","Symbol":"STZ","Portfolio%":"0.09%","Price":244.96,"Chg":-3.18,"% Chg":"(-1.28%)"}
+{"#":213,"Company":"Sysco Corporation","Symbol":"SYY","Portfolio%":"0.09%","Price":79.17,"Chg":-0.41,"% Chg":"(-0.52%)"}
+{"#":214,"Company":"Occidental Petroleum Corporation","Symbol":"OXY","Portfolio%":"0.09%","Price":61.11,"Chg":0.52,"% Chg":"(0.87%)"}
+{"#":215,"Company":"Dow Inc.","Symbol":"DOW","Portfolio%":"0.09%","Price":56.38,"Chg":-0.6,"% Chg":"(-1.05%)"}
+{"#":216,"Company":"Old Dominion Freight Line","Symbol":"ODFL","Portfolio%":"0.09%","Price":427.97,"Chg":-2.11,"% Chg":"(-0.49%)"}
+{"#":217,"Company":"Cognizant Technology Solutions","Symbol":"CTSH","Portfolio%":"0.09%","Price":75.71,"Chg":-2.07,"% Chg":"(-2.66%)"}
+{"#":218,"Company":"Paychex Inc","Symbol":"PAYX","Portfolio%":"0.09%","Price":120.44,"Chg":0.21,"% Chg":"(0.18%)"}
+{"#":219,"Company":"Cencora, Inc.","Symbol":"COR","Portfolio%":"0.09%","Price":233.77,"Chg":-1.54,"% Chg":"(-0.65%)"}
+{"#":220,"Company":"Dominion Energy, Inc","Symbol":"D","Portfolio%":"0.09%","Price":47.18,"Chg":1.07,"% Chg":"(2.33%)"}
+{"#":221,"Company":"Otis Worldwide Corporation","Symbol":"OTIS","Portfolio%":"0.09%","Price":95.05,"Chg":0.51,"% Chg":"(0.54%)"}
+{"#":222,"Company":"Yum! Brands, Inc.","Symbol":"YUM","Portfolio%":"0.09%","Price":137.38,"Chg":-1.32,"% Chg":"(-0.95%)"}
+{"#":223,"Company":"Prudential Financial, Inc.","Symbol":"PRU","Portfolio%":"0.09%","Price":108.76,"Chg":-0.18,"% Chg":"(-0.16%)"}
+{"#":224,"Company":"Newmont Corporation","Symbol":"NEM","Portfolio%":"0.09%","Price":33.44,"Chg":0.09,"% Chg":"(0.28%)"}
+{"#":225,"Company":"Cummins Inc.","Symbol":"CMI","Portfolio%":"0.09%","Price":274.06,"Chg":2.71,"% Chg":"(1.00%)"}
+{"#":226,"Company":"Republic Services Inc.","Symbol":"RSG","Portfolio%":"0.09%","Price":184.38,"Chg":0.62,"% Chg":"(0.33%)"}
+{"#":227,"Company":"Corteva, Inc.","Symbol":"CTVA","Portfolio%":"0.09%","Price":53.95,"Chg":0.01,"% Chg":"(0.02%)"}
+{"#":228,"Company":"General Mills, Inc.","Symbol":"GIS","Portfolio%":"0.09%","Price":64.73,"Chg":0.25,"% Chg":"(0.40%)"}
+{"#":229,"Company":"Martin Marietta Materials","Symbol":"MLM","Portfolio%":"0.09%","Price":606.47,"Chg":3.57,"% Chg":"(0.59%)"}
+{"#":230,"Company":"Ingersoll Rand Inc.","Symbol":"IR","Portfolio%":"0.09%","Price":90.11,"Chg":0.14,"% Chg":"(0.16%)"}
+{"#":231,"Company":"Gartner, Inc.","Symbol":"IT","Portfolio%":"0.08%","Price":468.29,"Chg":8.06,"% Chg":"(1.75%)"}
+{"#":232,"Company":"Ge Healthcare Technologies Inc.","Symbol":"GEHC","Portfolio%":"0.08%","Price":92.27,"Chg":0.46,"% Chg":"(0.50%)"}
+{"#":233,"Company":"Costar Group Inc","Symbol":"CSGP","Portfolio%":"0.08%","Price":87.38,"Chg":0.03,"% Chg":"(0.04%)"}
+{"#":234,"Company":"Exelon Corporation","Symbol":"EXC","Portfolio%":"0.08%","Price":36.49,"Chg":0.21,"% Chg":"(0.59%)"}
+{"#":235,"Company":"Vulcan Materials Company","Symbol":"VMC","Portfolio%":"0.08%","Price":267.56,"Chg":2.58,"% Chg":"(0.97%)"}
+{"#":236,"Company":"Quanta Services, Inc.","Symbol":"PWR","Portfolio%":"0.08%","Price":241.45,"Chg":1.74,"% Chg":"(0.73%)"}
+{"#":237,"Company":"Pg&e Corporation","Symbol":"PCG","Portfolio%":"0.08%","Price":16.57,"Chg":0.14,"% Chg":"(0.85%)"}
+{"#":238,"Company":"Monolithic Power Systems, Inc.","Symbol":"MPWR","Portfolio%":"0.08%","Price":727.5,"Chg":9.86,"% Chg":"(1.37%)"}
+{"#":239,"Company":"Verisk Analytics, Inc.","Symbol":"VRSK","Portfolio%":"0.08%","Price":236.75,"Chg":-1.0,"% Chg":"(-0.42%)"}
+{"#":240,"Company":"On Semiconductor Corp","Symbol":"ON","Portfolio%":"0.08%","Price":77.19,"Chg":0.2,"% Chg":"(0.25%)"}
+{"#":241,"Company":"The Estee Lauder Companies Inc. Class A","Symbol":"EL","Portfolio%":"0.08%","Price":145.11,"Chg":-2.21,"% Chg":"(-1.50%)"}
+{"#":242,"Company":"Kinder Morgan, Inc.","Symbol":"KMI","Portfolio%":"0.08%","Price":17.79,"Chg":0.07,"% Chg":"(0.37%)"}
+{"#":243,"Company":"Electronic Arts Inc","Symbol":"EA","Portfolio%":"0.08%","Price":134.26,"Chg":-2.02,"% Chg":"(-1.48%)"}
+{"#":244,"Company":"Global Payments, Inc.","Symbol":"GPN","Portfolio%":"0.08%","Price":128.07,"Chg":-0.76,"% Chg":"(-0.59%)"}
+{"#":245,"Company":"Rockwell Automation, Inc.","Symbol":"ROK","Portfolio%":"0.08%","Price":285.23,"Chg":-2.45,"% Chg":"(-0.85%)"}
+{"#":246,"Company":"Cdw Corporation","Symbol":"CDW","Portfolio%":"0.08%","Price":236.95,"Chg":-8.02,"% Chg":"(-3.27%)"}
+{"#":247,"Company":"Equifax, Incorporated","Symbol":"EFX","Portfolio%":"0.08%","Price":356.74,"Chg":96.05,"% Chg":"(36.85%)"}
+{"#":248,"Company":"Kenvue Inc.","Symbol":"KVUE","Portfolio%":"0.08%","Price":19.55,"Chg":0.54,"% Chg":"(2.84%)"}
+{"#":249,"Company":"Ppg Industries, Inc.","Symbol":"PPG","Portfolio%":"0.08%","Price":139.97,"Chg":1.18,"% Chg":"(0.85%)"}
+{"#":250,"Company":"Dollar General Corp.","Symbol":"DG","Portfolio%":"0.08%","Price":155.62,"Chg":0.77,"% Chg":"(0.49%)"}
+{"#":251,"Company":"Arch Capital Group Ltd","Symbol":"ACGL","Portfolio%":"0.07%","Price":88.73,"Chg":1.34,"% Chg":"(1.53%)"}
+{"#":252,"Company":"The Kroger Co.","Symbol":"KR","Portfolio%":"0.07%","Price":50.26,"Chg":0.78,"% Chg":"(1.57%)"}
+{"#":253,"Company":"Fair Isaac Corporation","Symbol":"FICO","Portfolio%":"0.07%","Price":1286.61,"Chg":22.95,"% Chg":"(1.82%)"}
+{"#":254,"Company":"Diamondback Energy, Inc.","Symbol":"FANG","Portfolio%":"0.07%","Price":180.13,"Chg":0.06,"% Chg":"(0.04%)"}
+{"#":255,"Company":"Biogen Inc.","Symbol":"BIIB","Portfolio%":"0.07%","Price":217.53,"Chg":0.3,"% Chg":"(0.14%)"}
+{"#":256,"Company":"Moderna, Inc.","Symbol":"MRNA","Portfolio%":"0.07%","Price":97.88,"Chg":2.31,"% Chg":"(2.42%)"}
+{"#":257,"Company":"Public Service Enterprise Group Incorporated","Symbol":"PEG","Portfolio%":"0.07%","Price":64.3,"Chg":0.09,"% Chg":"(0.13%)"}
+{"#":258,"Company":"Halliburton Company","Symbol":"HAL","Portfolio%":"0.07%","Price":35.4,"Chg":0.22,"% Chg":"(0.63%)"}
+{"#":259,"Company":"Extra Space Storage, Inc.","Symbol":"EXR","Portfolio%":"0.07%","Price":143.75,"Chg":1.16,"% Chg":"(0.82%)"}
+{"#":260,"Company":"Consolidated Edison, Inc.","Symbol":"ED","Portfolio%":"0.07%","Price":89.33,"Chg":0.34,"% Chg":"(0.38%)"}
+{"#":261,"Company":"Vici Properties Inc.","Symbol":"VICI","Portfolio%":"0.07%","Price":28.97,"Chg":0.05,"% Chg":"(0.17%)"}
+{"#":262,"Company":"Xylem Inc","Symbol":"XYL","Portfolio%":"0.07%","Price":126.27,"Chg":0.08,"% Chg":"(0.07%)"}
+{"#":263,"Company":"Dollar Tree Inc.","Symbol":"DLTR","Portfolio%":"0.07%","Price":147.29,"Chg":-1.8,"% Chg":"(-1.20%)"}
+{"#":264,"Company":"Discover Financial Services","Symbol":"DFS","Portfolio%":"0.07%","Price":117.4,"Chg":-3.88,"% Chg":"(-3.20%)"}
+{"#":265,"Company":"Dupont De Nemours, Inc.","Symbol":"DD","Portfolio%":"0.07%","Price":70.9,"Chg":1.9,"% Chg":"(2.75%)"}
+{"#":266,"Company":"Fortive Corporation","Symbol":"FTV","Portfolio%":"0.07%","Price":75.57,"Chg":-8.57,"% Chg":"(-10.19%)"}
+{"#":267,"Company":"Royal Caribbean Group","Symbol":"RCL","Portfolio%":"0.07%","Price":127.35,"Chg":1.25,"% Chg":"(0.99%)"}
+{"#":268,"Company":"Ansys Inc","Symbol":"ANSS","Portfolio%":"0.07%","Price":334.9,"Chg":6.11,"% Chg":"(1.86%)"}
+{"#":269,"Company":"Baker Hughes Company","Symbol":"BKR","Portfolio%":"0.07%","Price":30.45,"Chg":0.28,"% Chg":"(0.91%)"}
+{"#":270,"Company":"Keurig Dr Pepper Inc.","Symbol":"KDP","Portfolio%":"0.07%","Price":29.14,"Chg":0.05,"% Chg":"(0.15%)"}
+{"#":271,"Company":"The Hartford Financial Services Group, Inc.","Symbol":"HIG","Portfolio%":"0.07%","Price":97.34,"Chg":1.49,"% Chg":"(1.56%)"}
+{"#":272,"Company":"Devon Energy Corporation","Symbol":"DVN","Portfolio%":"0.07%","Price":45.44,"Chg":0.36,"% Chg":"(0.80%)"}
+{"#":273,"Company":"Archer Daniels Midland Company","Symbol":"ADM","Portfolio%":"0.07%","Price":54.1,"Chg":0.64,"% Chg":"(1.20%)"}
+{"#":274,"Company":"Willis Towers Watson Public Limited Companys","Symbol":"WTW","Portfolio%":"0.07%","Price":274.47,"Chg":2.74,"% Chg":"(1.01%)"}
+{"#":275,"Company":"Cbre Group, Inc.","Symbol":"CBRE","Portfolio%":"0.07%","Price":86.26,"Chg":-5.62,"% Chg":"(-6.12%)"}
+{"#":276,"Company":"Charter Comm Inc Del Cl a","Symbol":"CHTR","Portfolio%":"0.07%","Price":274.93,"Chg":-5.92,"% Chg":"(-2.11%)"}
+{"#":277,"Company":"Xcel Energy, Inc.","Symbol":"XEL","Portfolio%":"0.06%","Price":48.45,"Chg":-0.2,"% Chg":"(-0.42%)"}
+{"#":278,"Company":"Keysight Technologies, Inc.","Symbol":"KEYS","Portfolio%":"0.06%","Price":156.68,"Chg":0.91,"% Chg":"(0.58%)"}
+{"#":279,"Company":"Mettler-Toledo International","Symbol":"MTD","Portfolio%":"0.06%","Price":1091.99,"Chg":-194.92,"% Chg":"(-15.15%)"}
+{"#":280,"Company":"The Kraft Heinz Company","Symbol":"KHC","Portfolio%":"0.06%","Price":35.44,"Chg":0.3,"% Chg":"(0.87%)"}
+{"#":281,"Company":"Cardinal Health, Inc.","Symbol":"CAH","Portfolio%":"0.06%","Price":111.7,"Chg":-1.22,"% Chg":"(-1.08%)"}
+{"#":282,"Company":"The Hershey Company","Symbol":"HSY","Portfolio%":"0.06%","Price":192.76,"Chg":5.2,"% Chg":"(2.77%)"}
+{"#":283,"Company":"Tractor Supply Co","Symbol":"TSCO","Portfolio%":"0.06%","Price":250.3,"Chg":2.43,"% Chg":"(0.98%)"}
+{"#":284,"Company":"Ulta Beauty, Inc.","Symbol":"ULTA","Portfolio%":"0.06%","Price":547.5,"Chg":-1.96,"% Chg":"(-0.36%)"}
+{"#":285,"Company":"Delta Air Lines, Inc.","Symbol":"DAL","Portfolio%":"0.06%","Price":41.78,"Chg":-0.02,"% Chg":"(-0.06%)"}
+{"#":286,"Company":"West Pharmaceutical Services, Inc.","Symbol":"WST","Portfolio%":"0.06%","Price":353.32,"Chg":1.37,"% Chg":"(0.39%)"}
+{"#":287,"Company":"Resmed Inc.","Symbol":"RMD","Portfolio%":"0.06%","Price":184.94,"Chg":7.31,"% Chg":"(4.11%)"}
+{"#":288,"Company":"Howmet Aerospace Inc.","Symbol":"HWM","Portfolio%":"0.06%","Price":68.8,"Chg":0.84,"% Chg":"(1.23%)"}
+{"#":289,"Company":"Zimmer Biomet Holdings, Inc.","Symbol":"ZBH","Portfolio%":"0.06%","Price":124.75,"Chg":-0.03,"% Chg":"(-0.02%)"}
+{"#":290,"Company":"T Rowe Price Group Inc","Symbol":"TROW","Portfolio%":"0.06%","Price":117.67,"Chg":1.41,"% Chg":"(1.21%)"}
+{"#":291,"Company":"Avalonbay Communities, Inc.","Symbol":"AVB","Portfolio%":"0.06%","Price":182.95,"Chg":-0.8,"% Chg":"(-0.43%)"}
+{"#":292,"Company":"Lyondellbasell Industries N.v. Class A","Symbol":"LYB","Portfolio%":"0.06%","Price":100.01,"Chg":-1.48,"% Chg":"(-1.45%)"}
+{"#":293,"Company":"Weyerhaeuser Company","Symbol":"WY","Portfolio%":"0.06%","Price":34.53,"Chg":0.09,"% Chg":"(0.26%)"}
+{"#":294,"Company":"Edison International","Symbol":"EIX","Portfolio%":"0.06%","Price":68.82,"Chg":1.71,"% Chg":"(2.55%)"}
+{"#":295,"Company":"Corning Incorporated","Symbol":"GLW","Portfolio%":"0.06%","Price":32.77,"Chg":0.27,"% Chg":"(0.83%)"}
+{"#":296,"Company":"Wabtec Inc.","Symbol":"WAB","Portfolio%":"0.06%","Price":141.17,"Chg":-0.13,"% Chg":"(-0.09%)"}
+{"#":297,"Company":"Ebay Inc","Symbol":"EBAY","Portfolio%":"0.06%","Price":50.67,"Chg":0.57,"% Chg":"(1.15%)"}
+{"#":298,"Company":"Hp Inc.","Symbol":"HPQ","Portfolio%":"0.06%","Price":30.36,"Chg":1.23,"% Chg":"(4.22%)"}
+{"#":299,"Company":"Wec Energy Group, Inc.","Symbol":"WEC","Portfolio%":"0.06%","Price":81.21,"Chg":1.47,"% Chg":"(1.85%)"}
+{"#":300,"Company":"Builders Firstsource, Inc.","Symbol":"BLDR","Portfolio%":"0.06%","Price":202.53,"Chg":4.23,"% Chg":"(2.13%)"}
+{"#":301,"Company":"Church & Dwight Co., Inc.","Symbol":"CHD","Portfolio%":"0.06%","Price":102.29,"Chg":0.38,"% Chg":"(0.37%)"}
+{"#":302,"Company":"Nvr, Inc.","Symbol":"NVR","Portfolio%":"0.06%","Price":7592.5,"Chg":-2.6,"% Chg":"(-0.03%)"}
+{"#":303,"Company":"Fifth Third Bancorp","Symbol":"FITB","Portfolio%":"0.06%","Price":35.95,"Chg":-0.41,"% Chg":"(-1.11%)"}
+{"#":304,"Company":"Broadridge Financial Solutions Inc","Symbol":"BR","Portfolio%":"0.06%","Price":202.73,"Chg":1.53,"% Chg":"(0.76%)"}
+{"#":305,"Company":"Pultegroup, Inc.","Symbol":"PHM","Portfolio%":"0.06%","Price":111.45,"Chg":1.0,"% Chg":"(0.91%)"}
+{"#":306,"Company":"American Water Works Company, Inc","Symbol":"AWK","Portfolio%":"0.05%","Price":121.31,"Chg":2.05,"% Chg":"(1.71%)"}
+{"#":307,"Company":"Dover Corporation","Symbol":"DOV","Portfolio%":"0.05%","Price":170.67,"Chg":3.4,"% Chg":"(2.03%)"}
+{"#":308,"Company":"M&t Bank Corp.","Symbol":"MTB","Portfolio%":"0.05%","Price":141.92,"Chg":-1.94,"% Chg":"(-1.35%)"}
+{"#":309,"Company":"Take-Two Interactive Software Inc","Symbol":"TTWO","Portfolio%":"0.05%","Price":143.74,"Chg":-0.2,"% Chg":"(-0.14%)"}
+{"#":310,"Company":"Steris Plc","Symbol":"STE","Portfolio%":"0.05%","Price":182.06,"Chg":-46.32,"% Chg":"(-20.28%)"}
+{"#":311,"Company":"Iron Mountain Inc.","Symbol":"IRM","Portfolio%":"0.05%","Price":80.33,"Chg":1.76,"% Chg":"(2.24%)"}
+{"#":312,"Company":"Sba Communications Corp","Symbol":"SBAC","Portfolio%":"0.05%","Price":215.7,"Chg":-0.81,"% Chg":"(-0.37%)"}
+{"#":313,"Company":"State Street Corporation","Symbol":"STT","Portfolio%":"0.05%","Price":72.21,"Chg":-1.1,"% Chg":"(-1.50%)"}
+{"#":314,"Company":"Raymond James Financial, Inc.","Symbol":"RJF","Portfolio%":"0.05%","Price":111.3,"Chg":-10.19,"% Chg":"(-8.39%)"}
+{"#":315,"Company":"Dte Energy Company","Symbol":"DTE","Portfolio%":"0.05%","Price":112.42,"Chg":2.43,"% Chg":"(2.20%)"}
+{"#":316,"Company":"Axon Enterprise, Inc.","Symbol":"AXON","Portfolio%":"0.05%","Price":310.13,"Chg":-4.98,"% Chg":"(-1.58%)"}
+{"#":317,"Company":"Targa Resources Corp.","Symbol":"TRGP","Portfolio%":"0.05%","Price":104.38,"Chg":1.86,"% Chg":"(1.81%)"}
+{"#":318,"Company":"Molina Healthcare, Inc.","Symbol":"MOH","Portfolio%":"0.05%","Price":388.35,"Chg":2.77,"% Chg":"(0.72%)"}
+{"#":319,"Company":"Ptc, Inc","Symbol":"PTC","Portfolio%":"0.05%","Price":226.6,"Chg":47.41,"% Chg":"(26.46%)"}
+{"#":320,"Company":"Aptiv Plc","Symbol":"APTV","Portfolio%":"0.05%","Price":78.02,"Chg":-1.42,"% Chg":"(-1.78%)"}
+{"#":321,"Company":"Hewlett Packard Enterprise Company","Symbol":"HPE","Portfolio%":"0.05%","Price":18.67,"Chg":0.57,"% Chg":"(3.15%)"}
+{"#":322,"Company":"Align Technology Inc","Symbol":"ALGN","Portfolio%":"0.05%","Price":308.5,"Chg":9.01,"% Chg":"(3.01%)"}
+{"#":323,"Company":"Illumina Inc","Symbol":"ILMN","Portfolio%":"0.05%","Price":133.46,"Chg":-1.22,"% Chg":"(-0.90%)"}
+{"#":324,"Company":"Entergy Corporation","Symbol":"ETR","Portfolio%":"0.05%","Price":101.86,"Chg":-0.18,"% Chg":"(-0.17%)"}
+{"#":325,"Company":"Netapp, Inc","Symbol":"NTAP","Portfolio%":"0.05%","Price":105.79,"Chg":3.1,"% Chg":"(3.02%)"}
+{"#":326,"Company":"Baxter International Inc.","Symbol":"BAX","Portfolio%":"0.05%","Price":43.53,"Chg":1.12,"% Chg":"(2.64%)"}
+{"#":327,"Company":"Equity Residential","Symbol":"EQR","Portfolio%":"0.05%","Price":62.45,"Chg":0.17,"% Chg":"(0.27%)"}
+{"#":328,"Company":"Garmin Ltd","Symbol":"GRMN","Portfolio%":"0.05%","Price":139.75,"Chg":-0.34,"% Chg":"(-0.24%)"}
+{"#":329,"Company":"Genuine Parts Company","Symbol":"GPC","Portfolio%":"0.05%","Price":149.61,"Chg":-0.33,"% Chg":"(-0.22%)"}
+{"#":330,"Company":"Darden Restaurants, Inc.","Symbol":"DRI","Portfolio%":"0.05%","Price":175.6,"Chg":1.19,"% Chg":"(0.68%)"}
+{"#":331,"Company":"Hubbell Incorporated","Symbol":"HUBB","Portfolio%":"0.05%","Price":340.49,"Chg":-40.16,"% Chg":"(-10.55%)"}
+{"#":332,"Company":"Western Digital Corp.","Symbol":"WDC","Portfolio%":"0.05%","Price":64.95,"Chg":1.46,"% Chg":"(2.30%)"}
+{"#":333,"Company":"Eversource Energy","Symbol":"ES","Portfolio%":"0.05%","Price":62.75,"Chg":4.6,"% Chg":"(7.92%)"}
+{"#":334,"Company":"Waters Corp","Symbol":"WAT","Portfolio%":"0.05%","Price":310.0,"Chg":-33.41,"% Chg":"(-9.73%)"}
+{"#":335,"Company":"Invitation Homes Inc.","Symbol":"INVH","Portfolio%":"0.05%","Price":34.71,"Chg":-0.16,"% Chg":"(-0.45%)"}
+{"#":336,"Company":"The Cooper Companies, Inc.","Symbol":"COO","Portfolio%":"0.05%","Price":101.01,"Chg":-0.41,"% Chg":"(-0.40%)"}
+{"#":337,"Company":"Fleetcor Technologies, Inc.","Symbol":"FLT","Portfolio%":"0.05%","Price":285.27,"Chg":4.66,"% Chg":"(1.66%)"}
+{"#":338,"Company":"Ball Corporation","Symbol":"BALL","Portfolio%":"0.05%","Price":63.97,"Chg":0.13,"% Chg":"(0.20%)"}
+{"#":339,"Company":"Southwest Airlines Co.","Symbol":"LUV","Portfolio%":"0.05%","Price":34.37,"Chg":-0.04,"% Chg":"(-0.13%)"}
+{"#":340,"Company":"Teledyne Technologies Incorporated","Symbol":"TDY","Portfolio%":"0.05%","Price":445.0,"Chg":21.79,"% Chg":"(5.15%)"}
+{"#":341,"Company":"Cboe Global Markets, Inc.","Symbol":"CBOE","Portfolio%":"0.05%","Price":189.3,"Chg":-0.95,"% Chg":"(-0.50%)"}
+{"#":342,"Company":"Coterra Energy Inc.","Symbol":"CTRA","Portfolio%":"0.05%","Price":26.41,"Chg":-0.29,"% Chg":"(-1.07%)"}
+{"#":343,"Company":"Brown & Brown, Inc.","Symbol":"BRO","Portfolio%":"0.05%","Price":84.99,"Chg":0.89,"% Chg":"(1.05%)"}
+{"#":344,"Company":"Steel Dynamics Inc","Symbol":"STLD","Portfolio%":"0.05%","Price":129.89,"Chg":1.38,"% Chg":"(1.08%)"}
+{"#":345,"Company":"Alexandria Real Estate Equities, Inc.","Symbol":"ARE","Portfolio%":"0.05%","Price":124.86,"Chg":0.73,"% Chg":"(0.59%)"}
+{"#":346,"Company":"Ppl Corporation","Symbol":"PPL","Portfolio%":"0.05%","Price":26.79,"Chg":0.03,"% Chg":"(0.11%)"}
+{"#":347,"Company":"International Flavors & Fragrances Inc.","Symbol":"IFF","Portfolio%":"0.05%","Price":77.0,"Chg":0.28,"% Chg":"(0.36%)"}
+{"#":348,"Company":"Nasdaq, Inc.","Symbol":"NDAQ","Portfolio%":"0.04%","Price":57.77,"Chg":0.84,"% Chg":"(1.48%)"}
+{"#":349,"Company":"Firstenergy Corp.","Symbol":"FE","Portfolio%":"0.04%","Price":37.14,"Chg":0.13,"% Chg":"(0.34%)"}
+{"#":350,"Company":"Veralto Corporation","Symbol":"VLTO","Portfolio%":"0.04%","Price":88.87,"Chg":0.36,"% Chg":"(0.41%)"}
+{"#":351,"Company":"Huntington Bancshares Inc","Symbol":"HBAN","Portfolio%":"0.04%","Price":13.54,"Chg":-0.13,"% Chg":"(-0.92%)"}
+{"#":352,"Company":"Jabil Inc.","Symbol":"JBL","Portfolio%":"0.04%","Price":152.97,"Chg":1.87,"% Chg":"(1.23%)"}
+{"#":353,"Company":"Seagate Technology Holdings Plcs","Symbol":"STX","Portfolio%":"0.04%","Price":94.44,"Chg":-4.19,"% Chg":"(-4.25%)"}
+{"#":354,"Company":"Ameren Corporation","Symbol":"AEE","Portfolio%":"0.04%","Price":75.5,"Chg":3.38,"% Chg":"(4.69%)"}
+{"#":355,"Company":"Las Vegas Sands Corp.","Symbol":"LVS","Portfolio%":"0.04%","Price":50.83,"Chg":-0.08,"% Chg":"(-0.17%)"}
+{"#":356,"Company":"Clorox Company","Symbol":"CLX","Portfolio%":"0.04%","Price":150.5,"Chg":0.6,"% Chg":"(0.40%)"}
+{"#":357,"Company":"Laboratory Corporation of America Holdings","Symbol":"LH","Portfolio%":"0.04%","Price":217.63,"Chg":1.48,"% Chg":"(0.69%)"}
+{"#":358,"Company":"Jacobs Solutions Inc.","Symbol":"J","Portfolio%":"0.04%","Price":146.44,"Chg":-0.69,"% Chg":"(-0.47%)"}
+{"#":359,"Company":"Hologic Inc","Symbol":"HOLX","Portfolio%":"0.04%","Price":74.17,"Chg":0.41,"% Chg":"(0.55%)"}
+{"#":360,"Company":"Tyler Technologies, Inc.","Symbol":"TYL","Portfolio%":"0.04%","Price":380.0,"Chg":-37.18,"% Chg":"(-8.91%)"}
+{"#":361,"Company":"Expedia Group, Inc.","Symbol":"EXPE","Portfolio%":"0.04%","Price":132.3,"Chg":-1.73,"% Chg":"(-1.29%)"}
+{"#":362,"Company":"Warner Bros. Discovery, Inc. Series a","Symbol":"WBD","Portfolio%":"0.04%","Price":8.38,"Chg":0.23,"% Chg":"(2.89%)"}
+{"#":363,"Company":"Idex Corporation","Symbol":"IEX","Portfolio%":"0.04%","Price":236.75,"Chg":1.41,"% Chg":"(0.60%)"}
+{"#":364,"Company":"Ventas, Inc.","Symbol":"VTR","Portfolio%":"0.04%","Price":43.39,"Chg":0.41,"% Chg":"(0.97%)"}
+{"#":365,"Company":"Principal Financial Group, Inc.","Symbol":"PFG","Portfolio%":"0.04%","Price":80.21,"Chg":-0.78,"% Chg":"(-0.97%)"}
+{"#":366,"Company":"Regions Financial Corp.","Symbol":"RF","Portfolio%":"0.04%","Price":19.22,"Chg":-0.27,"% Chg":"(-1.39%)"}
+{"#":367,"Company":"Cincinnati Financial Corp","Symbol":"CINF","Portfolio%":"0.04%","Price":118.5,"Chg":6.54,"% Chg":"(5.84%)"}
+{"#":368,"Company":"Leidos Holdings, Inc.","Symbol":"LDOS","Portfolio%":"0.04%","Price":131.07,"Chg":1.77,"% Chg":"(1.37%)"}
+{"#":369,"Company":"Centerpoint Energy, Inc.","Symbol":"CNP","Portfolio%":"0.04%","Price":28.28,"Chg":0.39,"% Chg":"(1.41%)"}
+{"#":370,"Company":"Factset Research Systems","Symbol":"FDS","Portfolio%":"0.04%","Price":464.56,"Chg":0.23,"% Chg":"(0.05%)"}
+{"#":371,"Company":"Omnicom Group Inc.","Symbol":"OMC","Portfolio%":"0.04%","Price":89.51,"Chg":0.45,"% Chg":"(0.50%)"}
+{"#":372,"Company":"Epam Systems, Inc.","Symbol":"EPAM","Portfolio%":"0.04%","Price":304.69,"Chg":-1.81,"% Chg":"(-0.59%)"}
+{"#":373,"Company":"Masco Corporation","Symbol":"MAS","Portfolio%":"0.04%","Price":75.75,"Chg":-0.85,"% Chg":"(-1.11%)"}
+{"#":374,"Company":"Northern Trust Corp","Symbol":"NTRS","Portfolio%":"0.04%","Price":83.66,"Chg":-1.5,"% Chg":"(-1.76%)"}
+{"#":375,"Company":"Textron, Inc.","Symbol":"TXT","Portfolio%":"0.04%","Price":90.28,"Chg":0.94,"% Chg":"(1.05%)"}
+{"#":376,"Company":"Expeditors International of Washington, Inc.","Symbol":"EXPD","Portfolio%":"0.04%","Price":120.83,"Chg":1.69,"% Chg":"(1.42%)"}
+{"#":377,"Company":"Avery Dennison Corp.","Symbol":"AVY","Portfolio%":"0.04%","Price":214.8,"Chg":-1.37,"% Chg":"(-0.63%)"}
+{"#":378,"Company":"Cms Energy Corporation","Symbol":"CMS","Portfolio%":"0.04%","Price":63.0,"Chg":3.7,"% Chg":"(6.24%)"}
+{"#":379,"Company":"Mccormick & Company, Incorporated Non-Vtg Cs","Symbol":"MKC","Portfolio%":"0.04%","Price":68.11,"Chg":-0.79,"% Chg":"(-1.15%)"}
+{"#":380,"Company":"Verisign Inc","Symbol":"VRSN","Portfolio%":"0.04%","Price":192.29,"Chg":0.92,"% Chg":"(0.48%)"}
+{"#":381,"Company":"Atmos Energy Corporation","Symbol":"ATO","Portfolio%":"0.04%","Price":115.03,"Chg":0.57,"% Chg":"(0.50%)"}
+{"#":382,"Company":"W.R. Berkley Corporation","Symbol":"WRB","Portfolio%":"0.04%","Price":84.62,"Chg":0.57,"% Chg":"(0.68%)"}
+{"#":383,"Company":"Enphase Energy, Inc.","Symbol":"ENPH","Portfolio%":"0.04%","Price":125.4,"Chg":0.31,"% Chg":"(0.25%)"}
+{"#":384,"Company":"Synchrony Financial","Symbol":"SYF","Portfolio%":"0.04%","Price":41.29,"Chg":0.44,"% Chg":"(1.07%)"}
+{"#":385,"Company":"First Solar, Inc.","Symbol":"FSLR","Portfolio%":"0.04%","Price":158.18,"Chg":-0.88,"% Chg":"(-0.56%)"}
+{"#":386,"Company":"Skyworks Solutions Inc","Symbol":"SWKS","Portfolio%":"0.04%","Price":103.17,"Chg":2.84,"% Chg":"(2.83%)"}
+{"#":387,"Company":"Akamai Technologies Inc","Symbol":"AKAM","Portfolio%":"0.04%","Price":109.15,"Chg":-0.23,"% Chg":"(-0.21%)"}
+{"#":388,"Company":"Packaging Corp of America","Symbol":"PKG","Portfolio%":"0.04%","Price":183.73,"Chg":-0.75,"% Chg":"(-0.41%)"}
+{"#":389,"Company":"Jb Hunt Transport Services Inc","Symbol":"JBHT","Portfolio%":"0.04%","Price":202.9,"Chg":2.81,"% Chg":"(1.40%)"}
+{"#":390,"Company":"Teradyne, Inc.","Symbol":"TER","Portfolio%":"0.04%","Price":106.11,"Chg":2.35,"% Chg":"(2.27%)"}
+{"#":391,"Company":"Carnival Corporation","Symbol":"CCL","Portfolio%":"0.04%","Price":15.99,"Chg":0.1,"% Chg":"(0.60%)"}
+{"#":392,"Company":"Everest Group, Ltd.","Symbol":"EG","Portfolio%":"0.04%","Price":369.04,"Chg":2.11,"% Chg":"(0.57%)"}
+{"#":393,"Company":"Domino's Pizza Inc.","Symbol":"DPZ","Portfolio%":"0.04%","Price":449.46,"Chg":-0.13,"% Chg":"(-0.03%)"}
+{"#":394,"Company":"Essex Property Trust, Inc","Symbol":"ESS","Portfolio%":"0.04%","Price":242.35,"Chg":-0.46,"% Chg":"(-0.19%)"}
+{"#":395,"Company":"Albemarle Corporation","Symbol":"ALB","Portfolio%":"0.04%","Price":118.0,"Chg":8.6,"% Chg":"(7.86%)"}
+{"#":396,"Company":"Trimble Inc.","Symbol":"TRMB","Portfolio%":"0.04%","Price":61.91,"Chg":0.12,"% Chg":"(0.19%)"}
+{"#":397,"Company":"Pool Corporation","Symbol":"POOL","Portfolio%":"0.04%","Price":406.23,"Chg":-2.77,"% Chg":"(-0.68%)"}
+{"#":398,"Company":"Eqt Corp","Symbol":"EQT","Portfolio%":"0.04%","Price":37.59,"Chg":-0.4,"% Chg":"(-1.05%)"}
+{"#":399,"Company":"Celanese Corporation","Symbol":"CE","Portfolio%":"0.04%","Price":151.36,"Chg":-0.25,"% Chg":"(-0.16%)"}
+{"#":400,"Company":"Cf Industries Holding, Inc.","Symbol":"CF","Portfolio%":"0.04%","Price":81.18,"Chg":1.66,"% Chg":"(2.09%)"}
+{"#":401,"Company":"Tyson Foods, Inc.","Symbol":"TSN","Portfolio%":"0.04%","Price":53.32,"Chg":-0.39,"% Chg":"(-0.72%)"}
+{"#":402,"Company":"Snap-on Incorporated","Symbol":"SNA","Portfolio%":"0.03%","Price":285.25,"Chg":2.2,"% Chg":"(0.78%)"}
+{"#":403,"Company":"Best Buy Company, Inc.","Symbol":"BBY","Portfolio%":"0.03%","Price":77.34,"Chg":1.38,"% Chg":"(1.81%)"}
+{"#":404,"Company":"Mid-America Apartment Communities, Inc.","Symbol":"MAA","Portfolio%":"0.03%","Price":129.85,"Chg":0.94,"% Chg":"(0.73%)"}
+{"#":405,"Company":"Zebra Technologies Corporation","Symbol":"ZBRA","Portfolio%":"0.03%","Price":286.95,"Chg":2.41,"% Chg":"(0.85%)"}
+{"#":406,"Company":"Citizens Financial Group, Inc.","Symbol":"CFG","Portfolio%":"0.03%","Price":33.29,"Chg":-0.31,"% Chg":"(-0.93%)"}
+{"#":407,"Company":"Host Hotels & Resorts, Inc.","Symbol":"HST","Portfolio%":"0.03%","Price":20.94,"Chg":0.15,"% Chg":"(0.74%)"}
+{"#":408,"Company":"Viatris Inc.","Symbol":"VTRS","Portfolio%":"0.03%","Price":12.25,"Chg":-0.04,"% Chg":"(-0.29%)"}
+{"#":409,"Company":"Walgreens Boots Alliance, Inc","Symbol":"WBA","Portfolio%":"0.03%","Price":20.89,"Chg":-0.12,"% Chg":"(-0.57%)"}
+{"#":410,"Company":"Lamb Weston Holdings, Inc.","Symbol":"LW","Portfolio%":"0.03%","Price":102.29,"Chg":-0.86,"% Chg":"(-0.83%)"}
+{"#":411,"Company":"United Airlines Holdings, Inc.","Symbol":"UAL","Portfolio%":"0.03%","Price":43.9,"Chg":0.16,"% Chg":"(0.37%)"}
+{"#":412,"Company":"Nordson Corp","Symbol":"NDSN","Portfolio%":"0.03%","Price":264.8,"Chg":3.0,"% Chg":"(1.15%)"}
+{"#":413,"Company":"Marathon Oil Corporation","Symbol":"MRO","Portfolio%":"0.03%","Price":24.54,"Chg":0.3,"% Chg":"(1.22%)"}
+{"#":414,"Company":"Kellanova","Symbol":"K","Portfolio%":"0.03%","Price":53.81,"Chg":0.38,"% Chg":"(0.72%)"}
+{"#":415,"Company":"Live Nation Entertainment Inc.","Symbol":"LYV","Portfolio%":"0.03%","Price":98.09,"Chg":-0.12,"% Chg":"(-0.12%)"}
+{"#":416,"Company":"Quest Diagnostics Inc.","Symbol":"DGX","Portfolio%":"0.03%","Price":126.74,"Chg":2.22,"% Chg":"(1.79%)"}
+{"#":417,"Company":"Lkq Corporation","Symbol":"LKQ","Portfolio%":"0.03%","Price":51.49,"Chg":-0.33,"% Chg":"(-0.64%)"}
+{"#":418,"Company":"Stanley Black & Decker, Inc.","Symbol":"SWK","Portfolio%":"0.03%","Price":89.82,"Chg":0.86,"% Chg":"(0.97%)"}
+{"#":419,"Company":"Keycorp","Symbol":"KEY","Portfolio%":"0.03%","Price":15.05,"Chg":0.03,"% Chg":"(0.17%)"}
+{"#":420,"Company":"Loews Corporation","Symbol":"L","Portfolio%":"0.03%","Price":75.46,"Chg":0.88,"% Chg":"(1.18%)"}
+{"#":421,"Company":"Revvity, Inc.","Symbol":"RVTY","Portfolio%":"0.03%","Price":107.48,"Chg":0.47,"% Chg":"(0.44%)"}
+{"#":422,"Company":"Amcor Plcs","Symbol":"AMCR","Portfolio%":"0.03%","Price":9.22,"Chg":0.04,"% Chg":"(0.49%)"}
+{"#":423,"Company":"Charles River Laboratories International, Inc.","Symbol":"CRL","Portfolio%":"0.03%","Price":263.06,"Chg":1.79,"% Chg":"(0.69%)"}
+{"#":424,"Company":"Conagra Brands, Inc.","Symbol":"CAG","Portfolio%":"0.03%","Price":27.94,"Chg":0.24,"% Chg":"(0.88%)"}
+{"#":425,"Company":"Bunge Global Sa","Symbol":"BG","Portfolio%":"0.03%","Price":91.82,"Chg":0.38,"% Chg":"(0.41%)"}
+{"#":426,"Company":"Nrg Energy, Inc.","Symbol":"NRG","Portfolio%":"0.03%","Price":61.74,"Chg":1.73,"% Chg":"(2.88%)"}
+{"#":427,"Company":"Pentair Plc","Symbol":"PNR","Portfolio%":"0.03%","Price":78.7,"Chg":1.24,"% Chg":"(1.61%)"}
+{"#":428,"Company":"Henry (Jack) & Associates","Symbol":"JKHY","Portfolio%":"0.03%","Price":174.22,"Chg":1.7,"% Chg":"(0.99%)"}
+{"#":429,"Company":"Rollins, Inc.","Symbol":"ROL","Portfolio%":"0.03%","Price":44.74,"Chg":0.46,"% Chg":"(1.05%)"}
+{"#":430,"Company":"Carmax Inc.","Symbol":"KMX","Portfolio%":"0.03%","Price":79.8,"Chg":-0.32,"% Chg":"(-0.40%)"}
+{"#":431,"Company":"The J.M. Smucker Company","Symbol":"SJM","Portfolio%":"0.03%","Price":121.0,"Chg":0.0,"% Chg":"(-0.00%)"}
+{"#":432,"Company":"International Paper Co.","Symbol":"IP","Portfolio%":"0.03%","Price":35.7,"Chg":-0.15,"% Chg":"(-0.42%)"}
+{"#":433,"Company":"The Interpublic Group of Companies, Inc.","Symbol":"IPG","Portfolio%":"0.03%","Price":31.81,"Chg":0.01,"% Chg":"(0.02%)"}
+{"#":434,"Company":"Alliant Energy Corporation","Symbol":"LNT","Portfolio%":"0.03%","Price":49.0,"Chg":0.49,"% Chg":"(1.01%)"}
+{"#":435,"Company":"Gen Digital Inc.","Symbol":"GEN","Portfolio%":"0.03%","Price":21.61,"Chg":0.43,"% Chg":"(2.01%)"}
+{"#":436,"Company":"Juniper Networks Inc","Symbol":"JNPR","Portfolio%":"0.03%","Price":37.55,"Chg":0.09,"% Chg":"(0.25%)"}
+{"#":437,"Company":"Kimco Realty Corp.","Symbol":"KIM","Portfolio%":"0.03%","Price":19.61,"Chg":-0.07,"% Chg":"(-0.38%)"}
+{"#":438,"Company":"Symbol Not Found","Symbol":"PEAK","Portfolio%":"0.03%","Price":null,"Chg":null,"% Chg":"(NaN%)"}
+{"#":439,"Company":"Bio-Techne Corp.","Symbol":"TECH","Portfolio%":"0.03%","Price":160.0,"Chg":86.6,"% Chg":"(117.98%)"}
+{"#":440,"Company":"Huntington Ingalls Industries, Inc.","Symbol":"HII","Portfolio%":"0.03%","Price":293.71,"Chg":2.38,"% Chg":"(0.82%)"}
+{"#":441,"Company":"Qorvo, Inc.","Symbol":"QRVO","Portfolio%":"0.03%","Price":115.45,"Chg":2.16,"% Chg":"(1.91%)"}
+{"#":442,"Company":"Insulet Corporation","Symbol":"PODD","Portfolio%":"0.03%","Price":164.77,"Chg":0.84,"% Chg":"(0.51%)"}
+{"#":443,"Company":"Molson Coors Beverage Company Class B","Symbol":"TAP","Portfolio%":"0.03%","Price":62.87,"Chg":-0.14,"% Chg":"(-0.22%)"}
+{"#":444,"Company":"Evergy, Inc.","Symbol":"EVRG","Portfolio%":"0.03%","Price":50.61,"Chg":0.26,"% Chg":"(0.52%)"}
+{"#":445,"Company":"F5, Inc.","Symbol":"FFIV","Portfolio%":"0.03%","Price":184.68,"Chg":-2.78,"% Chg":"(-1.48%)"}
+{"#":446,"Company":"Mgm Resorts International","Symbol":"MGM","Portfolio%":"0.03%","Price":41.98,"Chg":-0.02,"% Chg":"(-0.04%)"}
+{"#":447,"Company":"Westrock Company","Symbol":"WRK","Portfolio%":"0.03%","Price":44.25,"Chg":-0.83,"% Chg":"(-1.84%)"}
+{"#":448,"Company":"Udr, Inc.","Symbol":"UDR","Portfolio%":"0.03%","Price":37.2,"Chg":0.04,"% Chg":"(0.09%)"}
+{"#":449,"Company":"Allegion Public Limited Company","Symbol":"ALLE","Portfolio%":"0.03%","Price":128.16,"Chg":0.63,"% Chg":"(0.49%)"}
+{"#":450,"Company":"Incyte Genomics Inc","Symbol":"INCY","Portfolio%":"0.03%","Price":58.58,"Chg":-0.32,"% Chg":"(-0.55%)"}
+{"#":451,"Company":"Brown-Forman Corporation Class B","Symbol":"BF.B","Portfolio%":"0.03%","Price":55.92,"Chg":-4.86,"% Chg":"(-8.00%)"}
+{"#":452,"Company":"Tapestry, Inc.","Symbol":"TPR","Portfolio%":"0.03%","Price":46.93,"Chg":-0.85,"% Chg":"(-1.78%)"}
+{"#":453,"Company":"Globe Life Inc.","Symbol":"GL","Portfolio%":"0.03%","Price":127.92,"Chg":1.61,"% Chg":"(1.27%)"}
+{"#":454,"Company":"Aes Corporation","Symbol":"AES","Portfolio%":"0.02%","Price":16.33,"Chg":0.18,"% Chg":"(1.11%)"}
+{"#":455,"Company":"Nisource Inc.","Symbol":"NI","Portfolio%":"0.02%","Price":26.67,"Chg":0.07,"% Chg":"(0.28%)"}
+{"#":456,"Company":"Universal Health Services, Inc. Class B","Symbol":"UHS","Portfolio%":"0.02%","Price":174.88,"Chg":-0.63,"% Chg":"(-0.36%)"}
+{"#":457,"Company":"Teleflex Incorporated","Symbol":"TFX","Portfolio%":"0.02%","Price":224.49,"Chg":1.21,"% Chg":"(0.54%)"}
+{"#":458,"Company":"Eastman Chemical Company","Symbol":"EMN","Portfolio%":"0.02%","Price":86.78,"Chg":-0.52,"% Chg":"(-0.60%)"}
+{"#":459,"Company":"A.O. Smith Corporation","Symbol":"AOS","Portfolio%":"0.02%","Price":84.38,"Chg":0.69,"% Chg":"(0.82%)"}
+{"#":460,"Company":"Bath & Body Works, Inc.","Symbol":"BBWI","Portfolio%":"0.02%","Price":44.62,"Chg":-0.48,"% Chg":"(-1.06%)"}
+{"#":461,"Company":"Regency Centers Corporation","Symbol":"REG","Portfolio%":"0.02%","Price":61.38,"Chg":-0.56,"% Chg":"(-0.91%)"}
+{"#":462,"Company":"Camden Property Trust","Symbol":"CPT","Portfolio%":"0.02%","Price":96.75,"Chg":0.06,"% Chg":"(0.06%)"}
+{"#":463,"Company":"Catalent, Inc.","Symbol":"CTLT","Portfolio%":"0.02%","Price":56.75,"Chg":-0.21,"% Chg":"(-0.37%)"}
+{"#":464,"Company":"The Mosaic Company","Symbol":"MOS","Portfolio%":"0.02%","Price":31.34,"Chg":0.1,"% Chg":"(0.30%)"}
+{"#":465,"Company":"Dayforce, Inc.","Symbol":"DAY","Portfolio%":"0.02%","Price":53.63,"Chg":-10.7,"% Chg":"(-16.63%)"}
+{"#":466,"Company":"Henry Schein Inc","Symbol":"HSIC","Portfolio%":"0.02%","Price":75.55,"Chg":0.14,"% Chg":"(0.19%)"}
+{"#":467,"Company":"News Corporation Class A","Symbol":"NWSA","Portfolio%":"0.02%","Price":25.99,"Chg":0.12,"% Chg":"(0.46%)"}
+{"#":468,"Company":"Hormel Foods Corporation","Symbol":"HRL","Portfolio%":"0.02%","Price":33.9,"Chg":-0.12,"% Chg":"(-0.35%)"}
+{"#":469,"Company":"American Airlines Group Inc.","Symbol":"AAL","Portfolio%":"0.02%","Price":14.83,"Chg":0.16,"% Chg":"(1.12%)"}
+{"#":470,"Company":"Wynn Resorts Ltd","Symbol":"WYNN","Portfolio%":"0.02%","Price":99.18,"Chg":-0.59,"% Chg":"(-0.60%)"}
+{"#":471,"Company":"Match Group, Inc","Symbol":"MTCH","Portfolio%":"0.02%","Price":33.86,"Chg":-0.72,"% Chg":"(-2.08%)"}
+{"#":472,"Company":"Assurant, Inc.","Symbol":"AIZ","Portfolio%":"0.02%","Price":179.58,"Chg":0.97,"% Chg":"(0.54%)"}
+{"#":473,"Company":"Boston Properties, Inc.","Symbol":"BXP","Portfolio%":"0.02%","Price":62.71,"Chg":-1.89,"% Chg":"(-2.93%)"}
+{"#":474,"Company":"Apa Corporation","Symbol":"APA","Portfolio%":"0.02%","Price":30.75,"Chg":0.29,"% Chg":"(0.94%)"}
+{"#":475,"Company":"Caesars Entertainment, Inc.","Symbol":"CZR","Portfolio%":"0.02%","Price":41.03,"Chg":-0.05,"% Chg":"(-0.12%)"}
+{"#":476,"Company":"Paycom Software, Inc.","Symbol":"PAYC","Portfolio%":"0.02%","Price":174.24,"Chg":0.35,"% Chg":"(0.20%)"}
+{"#":477,"Company":"Robert Half Inc.","Symbol":"RHI","Portfolio%":"0.02%","Price":79.51,"Chg":1.02,"% Chg":"(1.30%)"}
+{"#":478,"Company":"Campbell Soup Company","Symbol":"CPB","Portfolio%":"0.02%","Price":43.65,"Chg":0.7,"% Chg":"(1.63%)"}
+{"#":479,"Company":"C.H. Robinson Worldwide, Inc.","Symbol":"CHRW","Portfolio%":"0.02%","Price":71.85,"Chg":2.2,"% Chg":"(3.16%)"}
+{"#":480,"Company":"Etsy, Inc.","Symbol":"ETSY","Portfolio%":"0.02%","Price":68.57,"Chg":0.02,"% Chg":"(0.03%)"}
+{"#":481,"Company":"Marketaxess Holdings Inc.","Symbol":"MKTX","Portfolio%":"0.02%","Price":213.77,"Chg":2.48,"% Chg":"(1.17%)"}
+{"#":482,"Company":"Norwegian Cruise Line Holdings Ltd.s","Symbol":"NCLH","Portfolio%":"0.02%","Price":19.9,"Chg":0.24,"% Chg":"(1.22%)"}
+{"#":483,"Company":"Franklin Resources, Inc.","Symbol":"BEN","Portfolio%":"0.02%","Price":27.36,"Chg":-0.29,"% Chg":"(-1.05%)"}
+{"#":484,"Company":"Pinnacle West Capital Corporation","Symbol":"PNW","Portfolio%":"0.02%","Price":69.58,"Chg":0.97,"% Chg":"(1.41%)"}
+{"#":485,"Company":"Federal Realty Investment Trust","Symbol":"FRT","Portfolio%":"0.02%","Price":101.66,"Chg":-0.02,"% Chg":"(-0.02%)"}
+{"#":486,"Company":"Fmc Corporation","Symbol":"FMC","Portfolio%":"0.02%","Price":60.74,"Chg":1.03,"% Chg":"(1.73%)"}
+{"#":487,"Company":"Borgwarner Inc.","Symbol":"BWA","Portfolio%":"0.02%","Price":31.79,"Chg":0.47,"% Chg":"(1.50%)"}
+{"#":488,"Company":"Fox Corporation Class A","Symbol":"FOXA","Portfolio%":"0.02%","Price":28.29,"Chg":-0.53,"% Chg":"(-1.84%)"}
+{"#":489,"Company":"Ralph Lauren Corporation","Symbol":"RL","Portfolio%":"0.02%","Price":177.71,"Chg":-2.61,"% Chg":"(-1.45%)"}
+{"#":490,"Company":"Dentsply Sirona Inc.","Symbol":"XRAY","Portfolio%":"0.02%","Price":33.38,"Chg":0.11,"% Chg":"(0.33%)"}
+{"#":491,"Company":"Invesco Ltd","Symbol":"IVZ","Portfolio%":"0.02%","Price":15.73,"Chg":0.04,"% Chg":"(0.29%)"}
+{"#":492,"Company":"Bio-Rad Laboratories, Inc.Class A","Symbol":"BIO","Portfolio%":"0.02%","Price":366.59,"Chg":35.64,"% Chg":"(10.77%)"}
+{"#":493,"Company":"Generac Holdings Inc","Symbol":"GNRC","Portfolio%":"0.02%","Price":110.87,"Chg":0.77,"% Chg":"(0.70%)"}
+{"#":494,"Company":"Davita Inc.","Symbol":"DVA","Portfolio%":"0.02%","Price":131.57,"Chg":-3.09,"% Chg":"(-2.29%)"}
+{"#":495,"Company":"Comerica Incorporated","Symbol":"CMA","Portfolio%":"0.02%","Price":51.28,"Chg":-0.47,"% Chg":"(-0.90%)"}
+{"#":496,"Company":"Hasbro, Inc.","Symbol":"HAS","Portfolio%":"0.01%","Price":51.27,"Chg":0.54,"% Chg":"(1.05%)"}
+{"#":497,"Company":"Mohawk Industries, Inc.","Symbol":"MHK","Portfolio%":"0.01%","Price":119.21,"Chg":0.3,"% Chg":"(0.25%)"}
+{"#":498,"Company":"Zions Bancorporation N.a.","Symbol":"ZION","Portfolio%":"0.01%","Price":41.05,"Chg":0.09,"% Chg":"(0.23%)"}
+{"#":499,"Company":"Whirlpool Corp.","Symbol":"WHR","Portfolio%":"0.01%","Price":105.17,"Chg":2.04,"% Chg":"(1.97%)"}
+{"#":500,"Company":"V.F. Corporation","Symbol":"VFC","Portfolio%":"0.01%","Price":15.86,"Chg":0.04,"% Chg":"(0.25%)"}
+{"#":501,"Company":"Paramount Global Class B","Symbol":"PARA","Portfolio%":"0.01%","Price":10.59,"Chg":0.38,"% Chg":"(3.68%)"}
+{"#":502,"Company":"Fox Corporation Class B","Symbol":"FOX","Portfolio%":"0.01%","Price":25.81,"Chg":-0.52,"% Chg":"(-1.98%)"}
+{"#":503,"Company":"News Corporation Class B","Symbol":"NWS","Portfolio%":"0.01%","Price":27.11,"Chg":0.19,"% Chg":"(0.72%)"}
