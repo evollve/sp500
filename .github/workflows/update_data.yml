@@ -1,6 +1,6 @@
 name: Update S&P 500 Data
 
-on:
+#on:
   schedule:
     - cron: '0 0 * * *'
 
